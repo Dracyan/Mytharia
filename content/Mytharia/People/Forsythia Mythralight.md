@@ -1,3 +1,17 @@
+---
+title: Forsythia Mythralight
+draft: false
+tags:
+  - Vampire
+  - Wizard
+  - Human
+  - Lucent
+  - Mythralight
+  - Undead
+  - Noble
+---
+ 
+The rest of your content lives here. You can use **Markdown** here :)
 > [!infobox|no-table-header]
 > # `=this.file.name`
 > ![[Forsythia Portrait.png]]
