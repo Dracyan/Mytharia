@@ -1,3 +1,8 @@
+export default (() => {
+  function YourComponent() {
+    return <p class="red-text">Example Component</p>
+  }
+ 
 /* Custom Callout Box for "Wiki" style boxinfoes.
 Fixed width, floats right, and strips "flair" from ![[embedded]] files */
 
@@ -101,3 +106,6 @@ Fixed width, floats right, and strips "flair" from ![[embedded]] files */
   /* Obsidian Custom Variables */
   --callout-icon: lucide-truck;
 }
+ 
+  return YourComponent
+}) satisfies QuartzComponentConstructor
