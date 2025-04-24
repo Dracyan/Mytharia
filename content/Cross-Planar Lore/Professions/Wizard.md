@@ -1,1 +1,0 @@
-The spellcasters who use their knowledge of the universe and each of its facets to manipulate it and bend it to their will.
