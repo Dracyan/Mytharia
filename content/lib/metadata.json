@@ -1,337 +1,124 @@
 {
-  "vaultName": "Mytharia",
-  "lastExport": 1745528432843,
+  "vaultName": "content",
+  "lastExport": 1745534179973,
   "pluginVersion": "1.8.01",
-  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon check-color check-bg wotc-beyond",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon check-color check-bg",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "1. MoM - Memories of Mytharia/MoM Dungeons/Dishieples Dock.md",
-    "1. MoM - Memories of Mytharia/MoM Dungeons/Untitled.canvas",
-    "1. MoM - Memories of Mytharia/MoM Plot Threads/Across the Powergrid.md",
-    "1. MoM - Memories of Mytharia/MoM Plot Threads/Blood of Sunaria.md",
-    "1. MoM - Memories of Mytharia/MoM Plot Threads/Damnatio Memoriae.md",
-    "1. MoM - Memories of Mytharia/MoM Plot Threads/Gloom Upon the Trees.md",
-    "1. MoM - Memories of Mytharia/MoM Plot Threads/Graduation Adventure.md",
-    "1. MoM - Memories of Mytharia/MoM Plot Threads/Plot Threads.md",
-    "1. MoM - Memories of Mytharia/MoM Polnareff's Palace NPCs/Bramble of Greenest.md",
-    "1. MoM - Memories of Mytharia/MoM Polnareff's Palace NPCs/Ginny Stitch.md",
-    "1. MoM - Memories of Mytharia/MoM Polnareff's Palace NPCs/Homeless Harry H. Harrison.md",
-    "1. MoM - Memories of Mytharia/MoM Polnareff's Palace NPCs/Johnny Razor.md",
-    "1. MoM - Memories of Mytharia/MoM Polnareff's Palace NPCs/Polnareff's Palace.md",
-    "1. MoM - Memories of Mytharia/MoM Polnareff's Palace NPCs/Slowdancer.md",
-    "1. MoM - Memories of Mytharia/MoM Polnareff's Palace NPCs/Spider-Volt.md",
-    "1. MoM - Memories of Mytharia/MoM Polnareff's Palace NPCs/Treebert.md",
-    "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Adam 'Tango' Webb.md",
-    "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Ashley Johnsn.md",
-    "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Batamagus.md",
-    "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Beetts.md",
-    "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Class Bully.md",
-    "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Forsythia Mythralight - DM NOTE.md",
-    "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Kali of Kolridge.md",
-    "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Kid Voltage.md",
-    "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Laizee Beilar.md",
-    "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Lyssa of Renexan.md",
-    "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Raziel.md",
-    "1. MoM - Memories of Mytharia/MoM Relevant NPCs/The Joker.md",
-    "1. MoM - Memories of Mytharia/MoM Relevant NPCs/The Volt King.md",
-    "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Tiamat.md",
-    "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Viles Vorals.md",
-    "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Volt Action.md",
-    "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Wesley of Hillsville.md",
-    "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Wyenne Belswanna Coochiggly Murdendrum.md",
-    "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Action Heroes/Gloom Spider.md",
-    "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Action Heroes/Mick Graves.md",
-    "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Action Heroes/T-Rextaulia.md",
-    "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Action Heroes/The Damnator.md",
-    "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Action Heroes/The Fire Fighter.md",
-    "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Action Heroes/The Metal Magician.md",
-    "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Action Heroes/Witch of Wrought.md",
-    "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Seven Evil Opps/Chesake.md",
-    "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Seven Evil Opps/Heat Sink.md",
-    "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Seven Evil Opps/Lalythyxion.md",
-    "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Seven Evil Opps/Shiesty Spider.md",
-    "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Seven Evil Opps/Spider Spice.md",
-    "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Seven Evil Opps/The Seven Evil Opps.md",
-    "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Seven Evil Opps/Vlad The Inflator.md",
-    "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Seven Evil Opps/Wave Cap Willie.md",
-    "1. MoM - Memories of Mytharia/MoM Relevant Organisations/The Tickle Troupe/The Grandest Goon.md",
-    "1. MoM - Memories of Mytharia/MoM Relevant Organisations/The Tickle Troupe/The Master Baiter.md",
-    "1. MoM - Memories of Mytharia/MoM Relevant Organisations/The Tickle Troupe/The Tip Tickler.md",
-    "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Volt Action/Disaster Action.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 0.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 1 You all meet in a tavern.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 2 Vampire in the Attic.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 3 Botched Thievery.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 4 Gyro Zeppeli.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 5 Thwarting a Ritual.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 6 The Door of Gloom.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 7 4pm robbery.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 8 Wizard Woman.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 9 Mysterious Liquids Mingle.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 10 King Basilisk.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 11 Niles Norales vs The Fraud.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 12 Rolling for cancer and tarrasques.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 13 Spider Heroics.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 14 Border Security.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 15 The Greenest Incident.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 16  Surgeries and Spinal Cords.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 17 Spider-Volt’s and Tip Ticklers.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 18 The Banana Bread Incident.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 19 Banana Bread Unchained.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 20 Baking a Mistake.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 21 Coolsville Goidina.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 22 The Creepy Woods.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 23 Having Mercy.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 24 Improvised Fireball.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 25 Cruel and Unusual Punishment.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 26 An Angel’s Last Act.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 27 Keeping up with the Coolingtons.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 28 Coolsville departure.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 29 The Planaclysm’s second coming..md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 30 Coolio’s Nightmare.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 31 The Hoodlum and the Hippo.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 32 Mom, how are babies made.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 33 A Wild Ride.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 34 A Dream of Blue Veil.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 35 Tavern Brawler Strife.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 36 Death at the Concert Hall.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 37 Dinner with a star.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 38 The Joys of Parenthood.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 39 Shopping among Shadows.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 40 Familiar Reconnaissance.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 41 The danger of Teen Pregnancy.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 42 Garrison Subterfuge.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 43 Gas Station Murder.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 44 Heart of the Cards.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 45 Time to Duel.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 46 Justified Crashout.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 47 The Bear King's Forest.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 48 The Adventurers who saved Voltamas.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 49 A Voltmas Miracle.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 50 Scourges of the sea.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 51 Fragments of a Dead Universe.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 52 It's time for us to go...md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/session 53 A Glorious Return.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 54 Shots fired at Drop It Like It's Cold.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 55 The Outsiders.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 56 The Action Heroes.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 57 Dabbling in Interrogation.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 58 Hunting for Dishieples.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 59 Let's Do This One Last Time....md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 60 My name is Spider-Volt.md",
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 61.md",
-    "1. MoM - Memories of Mytharia/MoM The Party/Polnareff's Palace/1 Polnareff's Palace.md",
-    "1. MoM - Memories of Mytharia/MoM The Party/Polnareff's Palace/Abba Valentine.md",
-    "1. MoM - Memories of Mytharia/MoM The Party/Polnareff's Palace/Braile Jonson.md",
-    "1. MoM - Memories of Mytharia/MoM The Party/Polnareff's Palace/Diani.md",
-    "1. MoM - Memories of Mytharia/MoM The Party/Polnareff's Palace/Enderman.md",
-    "1. MoM - Memories of Mytharia/MoM The Party/Polnareff's Palace/Fence.md",
-    "1. MoM - Memories of Mytharia/MoM The Party/Polnareff's Palace/Polnareff.md",
-    "1. MoM - Memories of Mytharia/MoM The Party/Polnareff's Palace/Ringo Valentine.md",
-    "1. MoM - Memories of Mytharia/MoM The Party/Polnareff's Palace/Treebert MeowMeow.md",
-    "1. MoM - Memories of Mytharia/MoM The Party/Polnareff's Palace/Tymor.md",
-    "1. MoM - Memories of Mytharia/MoM The Party/Cal MeowMeow.md",
-    "1. MoM - Memories of Mytharia/MoM The Party/Coolio Coolington.md",
-    "1. MoM - Memories of Mytharia/MoM The Party/Cresie Beilar.md",
-    "1. MoM - Memories of Mytharia/MoM The Party/DOOR.md",
-    "1. MoM - Memories of Mytharia/MoM The Party/Duel-Lilah.md",
-    "1. MoM - Memories of Mytharia/MoM The Party/Niles Norales.md",
-    "1. MoM - Memories of Mytharia/MoM The Party/Oukruh.md",
-    "1. MoM - Memories of Mytharia/MoM The Party/Silver Lawson.md",
-    "1. MoM - Memories of Mytharia/MoM The Party/The Outsiders.md",
-    "1. MoM - Memories of Mytharia/Memories of Mytharia.md",
-    "1. MoM - Memories of Mytharia/MoM Outline.md",
-    "1. MoM - Memories of Mytharia/Post Campaign Notes.md",
-    "1. TOTA - Tides of the Abyss/DS Plot Threads/Emerald blood and betrayal.md",
-    "1. TOTA - Tides of the Abyss/DS Plot Threads/Foxes among Stars.md",
-    "1. TOTA - Tides of the Abyss/DS Plot Threads/Revelry of the Damned.md",
-    "1. TOTA - Tides of the Abyss/DS Plot Threads/Storms of the Isles.md",
-    "1. TOTA - Tides of the Abyss/DS Relevant NPCs/Bazraz.md",
-    "1. TOTA - Tides of the Abyss/DS Relevant NPCs/Captain Cascade.md",
-    "1. TOTA - Tides of the Abyss/DS Relevant NPCs/Captain Dahlia of Wellspring.md",
-    "1. TOTA - Tides of the Abyss/DS Relevant NPCs/Flavius The Fast.md",
-    "1. TOTA - Tides of the Abyss/DS Relevant NPCs/Jas Qu'uinn.md",
-    "1. TOTA - Tides of the Abyss/DS Relevant NPCs/Leglas.md",
-    "1. TOTA - Tides of the Abyss/DS Relevant NPCs/Surge of Rextaulia.md",
-    "1. TOTA - Tides of the Abyss/DS Session Notes/Session 0.md",
-    "1. TOTA - Tides of the Abyss/DS Session Notes/Session 1 Dissentry.md",
-    "1. TOTA - Tides of the Abyss/DS Session Notes/Session 2 Unionisation.md",
-    "1. TOTA - Tides of the Abyss/DS Session Notes/Session 3.md",
-    "1. TOTA - Tides of the Abyss/DS Session Notes/Session 4.md",
-    "1. TOTA - Tides of the Abyss/DS Session Notes/Session 5.md",
-    "1. TOTA - Tides of the Abyss/DS Session Notes/Session 6.md",
-    "1. TOTA - Tides of the Abyss/DS Session Notes/Session 7.md",
-    "1. TOTA - Tides of the Abyss/DS Session Notes/Session 8.md",
-    "1. TOTA - Tides of the Abyss/DS The Party/Astriel.md",
-    "1. TOTA - Tides of the Abyss/DS The Party/Cassian.md",
-    "1. TOTA - Tides of the Abyss/DS The Party/Florian of Greenest.md",
-    "1. TOTA - Tides of the Abyss/DS The Party/Forn Star.md",
-    "1. TOTA - Tides of the Abyss/DS The Party/Harry Gucc.md",
-    "1. TOTA - Tides of the Abyss/DS The Party/Valentino of New Dougleton.md",
-    "1. TOTA - Tides of the Abyss/Divergent Seas Outline.md",
-    "1. TOTA - Tides of the Abyss/Fallen temple to The Mistress of The Abyss.md",
-    "2. Mytharia/History/The Planaclysm.md",
-    "2. Mytharia/Organisations/The Crunch Crack Pirate Crew.md",
-    "2. Mytharia/Organisations/The Lustrous Mist.md",
-    "2. Mytharia/Organisations/The Saviours of Greenest.md",
-    "2. Mytharia/Organisations/The Wayfarer's Pack.md",
-    "2. Mytharia/People/Adventurers - Mytharia/Brett Con.md",
-    "2. Mytharia/People/Adventurers - Mytharia/Coletta D. Coolington.md",
-    "2. Mytharia/People/Adventurers - Mytharia/Karniss.md",
-    "2. Mytharia/People/Adventurers - Mytharia/Lyre Thair'Monistadt.md",
-    "2. Mytharia/People/Adventurers - Mytharia/Thugedge The Hoodlum.md",
-    "2. Mytharia/People/Adventurers - Mytharia/Tyrel, The Tarnisher.md",
-    "2. Mytharia/People/Adventurers - Mytharia/Yorick 'Yorkie' Jajijbol.md",
-    "2. Mytharia/People/Civilians - Mytharia/Nick Name.md",
-    "2. Mytharia/People/Civilians - Mytharia/Woulfe Gaange Moneymancer.md",
-    "2. Mytharia/People/Shopkeepers - Mytharia/Billbury.md",
-    "2. Mytharia/People/Shopkeepers - Mytharia/Catamari.md",
-    "2. Mytharia/People/Shopkeepers - Mytharia/Lemon.md",
-    "2. Mytharia/People/Shopkeepers - Mytharia/Scoop Dogg.md",
-    "2. Mytharia/People/Dr. Boom.md",
-    "2. Mytharia/People/Forsythia Mythralight.md",
-    "2. Mytharia/People/Gwendolyn Mythalight.md",
-    "2. Mytharia/People/Rhodri Mythralight.md",
-    "2. Mytharia/People/Robril Starsteel.md",
-    "2. Mytharia/People/Viktor Mythralight.md",
-    "2. Mytharia/People/Warren Mythralight.md",
-    "2. Mytharia/Planets/Mytharia Planet/Goidina/Goldas/Chickpea Diner.md",
-    "2. Mytharia/Planets/Mytharia Planet/Goidina/Goldas/Shop N' Hop.md",
-    "2. Mytharia/Planets/Mytharia Planet/Goidina/Goldas/Sir Antoine A. Adventure's Adventuring Academy.md",
-    "2. Mytharia/Planets/Mytharia Planet/Goidina/Coolsville.md",
-    "2. Mytharia/Planets/Mytharia Planet/Goidina/Goidina.md",
-    "2. Mytharia/Planets/Mytharia Planet/Griedoria/Remnil/New Dougleton/New Dougleton.md",
-    "2. Mytharia/Planets/Mytharia Planet/Griedoria/Remnil/Wingspan.md",
-    "2. Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Drop it Like It's Cold.md",
-    "2. Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Gryton's Grill.md",
-    "2. Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Heaven's Door.md",
-    "2. Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Paw-In Shop.md",
-    "2. Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Renexann.md",
-    "2. Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Web of Gems.md",
-    "2. Mytharia/Planets/Mytharia Planet/Rextaulia/Rextaulia.md",
-    "2. Mytharia/Planets/Mytharia Planet/The Divergent Isles/Lazulain/Lazulain.md",
-    "2. Mytharia/Planets/Mytharia Planet/The Divergent Isles/Ryukuma/Ryukuma Island.md",
-    "2. Mytharia/Planets/Mytharia Planet/The Divergent Isles/The Juno Isles/Yo-Yo shop.md",
-    "2. Mytharia/Planets/Mytharia Planet/The Divergent Isles/The Juno Isles.md",
-    "2. Mytharia/Planets/Mytharia Planet/Vortil/Remnil/Pious.md",
-    "2. Mytharia/Planets/Mytharia Planet/Vortil/Rextaulia/Jewel Harbour.md",
-    "2. Mytharia/Planets/Mytharia Planet/Vortil/Rextaulia/Rextaulia.md",
-    "2. Mytharia/Planets/Mytharia Planet/Vortil/The Greenest Empire/Greenest City/Greenest City.md",
-    "2. Volteya/Fulmin/Fulmin.md",
-    "2. Volteya/Sparksville/Sparksville.md",
-    "2. Volteya/Zappingham/Two Heels Diner.md",
-    "2. Volteya/Assier's Lair.md",
-    "2. Volteya/The Thundercloud.md",
-    "2. Volteya/Volt Action.md",
-    "2. Volteya/Volteya Overview.md",
-    "3. Cross Planar Lore/Creatures/Heretical Badass Dragon.md",
-    "3. Cross Planar Lore/Creatures/Ink Devil.md",
-    "3. Cross Planar Lore/Creatures/Malevolent Spirits.md",
-    "3. Cross Planar Lore/Creatures/Malphas.md",
-    "3. Cross Planar Lore/Creatures/Slaughter Demon.md",
-    "3. Cross Planar Lore/Items/Titan Blood.md",
-    "3. Cross Planar Lore/Professions/Pirate.md",
-    "3. Cross Planar Lore/Professions/Superhero.md",
-    "3. Cross Planar Lore/Professions/Wizard.md",
-    "3. Cross Planar Lore/Sapient Species/B-Head.md",
-    "3. Cross Planar Lore/Sapient Species/Bègacahkos.md",
-    "3. Cross Planar Lore/Sapient Species/Birdfolk.md",
-    "3. Cross Planar Lore/Sapient Species/Golem.md",
-    "3. Cross Planar Lore/Sapient Species/Human.md",
-    "3. Cross Planar Lore/Sapient Species/Saiyan.md",
-    "3. Cross Planar Lore/Sapient Species/Troll.md",
-    "3. Cross Planar Lore/Sapient Species/Vampire.md",
-    "3. Cross Planar Lore/Sapient Species/Vulpalf.md",
-    "3. Cross Planar Lore/Worship/Dead Gods/The Man With No Name.md",
-    "3. Cross Planar Lore/Worship/Gods/The Curate of The Occult.md",
-    "3. Cross Planar Lore/Worship/Gods/The Daydreamer.md",
-    "3. Cross Planar Lore/Worship/Gods/The Dear Leader.md",
-    "3. Cross Planar Lore/Worship/Gods/The Ether Crafter.md",
-    "3. Cross Planar Lore/Worship/Gods/The False Sufferer.md",
-    "3. Cross Planar Lore/Worship/Gods/The Golden Phoenix.md",
-    "3. Cross Planar Lore/Worship/Gods/The Hearthmother.md",
-    "3. Cross Planar Lore/Worship/Gods/The Lady of Arcana.md",
-    "3. Cross Planar Lore/Worship/Gods/The Master of Luck.md",
-    "3. Cross Planar Lore/Worship/Gods/The Muffin Lord.md",
-    "3. Cross Planar Lore/Worship/Gods/The Shadowhunter.md",
-    "3. Cross Planar Lore/Worship/Gods/The Time Keeper.md",
-    "3. Cross Planar Lore/Worship/Gods/The Woman of Heart.md",
-    "3. Cross Planar Lore/Astrology.md",
-    "3. Cross Planar Lore/Lodestar.md",
-    "3. Cross Planar Lore/Pharos.md",
-    "3. Cross Planar Lore/Soulscorching.md",
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR Plot Threads/Death of a Dragon.md",
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR Plot Threads/Expansion of The Dragon's Order.md",
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR Plot Threads/Farwander's Devestation.md",
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR Plot Threads/Foxes from the Stars.md",
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR Plot Threads/Millicent's Disappearance.md",
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR Relevant NPCs/Millicent of Frostont.md",
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR Session Notes/Session 1 - MoR.md",
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR Session Notes/Session 2 - MoR.md",
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR Session Notes/Session 3 - MoR.md",
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR Session Notes/Session 4 - MoR.md",
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR Session Notes/Session 5 - MoR.md",
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR Session Notes/Session 6 - MoR.md",
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR Session Notes/Session 7 - MoR.md",
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR Session Notes/Session 8 - MoR.md",
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR Session Notes/Session 9 - MoR.md",
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR Session Notes/Session 10 - MoR.md",
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR Session Notes/Session 11 - MOR (FINAL).md",
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR The Party/Aries.md",
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR The Party/BunBun Farwander.md",
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR The Party/Father Gucc.md",
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR The Party/Korryko of Resanthum.md",
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR The Party/Seth Poissoinne.md",
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR The Party/Silas Mythralight.md",
-    "5. old campaigns/1. MoR - Mists of Remnil/Mists of Remnil.md",
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR Outline.md",
-    "Homebrew Rules/Area Wild Magic table.md",
-    "Homebrew Rules/Caster and Target Wild Magic table.md",
-    "Homebrew Rules/Caster or Target Wild Magic table.md",
-    "Homebrew Rules/Harvesting tables.md",
-    "Homebrew Rules/Spell Variation Wild Magic table.md",
-    "Homebrew Rules/Wild Magic.md",
-    "Images/Agony darkness casket vale.png",
-    "Images/Arthur_Swifteye.png",
-    "Images/Batamagus.png",
-    "Images/Begacahkos Emperor.jpg",
-    "Images/cascade.png",
-    "Images/Coolio Coolington Transparent.png",
-    "Images/Cresie in the shadows.jpg",
-    "Images/Cresie's breakdown.jpg",
-    "Images/Florian.jpg",
-    "Images/Forn Star family tree.png",
-    "Images/Forsythia Portrait.png",
-    "Images/Goojoo Sootaroo.png",
-    "Images/Lemon Portrait.png",
-    "Images/Niles.jpg",
-    "Images/Oukruh Cool Stance.png",
-    "Images/Oukruh in action.png",
-    "Images/Oukruh Leaps into Flight.png",
-    "Images/Oukruh turned away.png",
-    "Images/Pasted image 20250223011632.png",
-    "Images/Stylised Cresie.jpg",
-    "Images/The Psionic Sunburst.png",
-    "Images/Trading Tables from Heliana.png",
-    "Images/Wyenne portrait.png",
-    "Statblocks/Ink Devil Statblock (MCDM).md",
-    "Statblocks/Krampus' Sack.md",
-    "Templates/Apotheosis Template.md",
-    "Templates/Creature Statblock template.md",
-    "Templates/Creature Template.md",
-    "Templates/Faction template.md",
-    "Templates/God Template.md",
-    "Templates/Item Template.md",
-    "Templates/Location Template.md",
-    "Templates/NPC Template.md",
-    "Templates/Player Character template.md",
-    "Templates/Plot Thread template.md",
-    "Templates/Sapient Race Template.md",
-    "Templates/Session Template.md",
-    "2025-03-24.md",
-    "mythariadictionary.csv",
-    "publish.css",
+    "Cross Planar Lore/Creatures/Heretical Badass Dragon.md",
+    "Cross Planar Lore/Creatures/Ink Devil.md",
+    "Cross Planar Lore/Creatures/Malevolent Spirits.md",
+    "Cross Planar Lore/Creatures/Malphas.md",
+    "Cross Planar Lore/Creatures/Slaughter Demon.md",
+    "Cross Planar Lore/Items/Titan Blood.md",
+    "Cross Planar Lore/Professions/Pirate.md",
+    "Cross Planar Lore/Professions/Superhero.md",
+    "Cross Planar Lore/Professions/Wizard.md",
+    "Cross Planar Lore/Sapient Species/B-Head.md",
+    "Cross Planar Lore/Sapient Species/Bègacahkos.md",
+    "Cross Planar Lore/Sapient Species/Birdfolk.md",
+    "Cross Planar Lore/Sapient Species/Golem.md",
+    "Cross Planar Lore/Sapient Species/Human.md",
+    "Cross Planar Lore/Sapient Species/Saiyan.md",
+    "Cross Planar Lore/Sapient Species/Troll.md",
+    "Cross Planar Lore/Sapient Species/Vampire.md",
+    "Cross Planar Lore/Sapient Species/Vulpalf.md",
+    "Cross Planar Lore/Worship/Dead Gods/The Man With No Name.md",
+    "Cross Planar Lore/Worship/Gods/The Curate of The Occult.md",
+    "Cross Planar Lore/Worship/Gods/The Daydreamer.md",
+    "Cross Planar Lore/Worship/Gods/The Dear Leader.md",
+    "Cross Planar Lore/Worship/Gods/The Ether Crafter.md",
+    "Cross Planar Lore/Worship/Gods/The False Sufferer.md",
+    "Cross Planar Lore/Worship/Gods/The Golden Phoenix.md",
+    "Cross Planar Lore/Worship/Gods/The Hearthmother.md",
+    "Cross Planar Lore/Worship/Gods/The Lady of Arcana.md",
+    "Cross Planar Lore/Worship/Gods/The Master of Luck.md",
+    "Cross Planar Lore/Worship/Gods/The Muffin Lord.md",
+    "Cross Planar Lore/Worship/Gods/The Shadowhunter.md",
+    "Cross Planar Lore/Worship/Gods/The Time Keeper.md",
+    "Cross Planar Lore/Worship/Gods/The Woman of Heart.md",
+    "Cross Planar Lore/Astrology.md",
+    "Cross Planar Lore/Lodestar.md",
+    "Cross Planar Lore/Pharos.md",
+    "Cross Planar Lore/Soulscorching.md",
+    "Mytharia/History/The Planaclysm.md",
+    "Mytharia/Organisations/The Crunch Crack Pirate Crew.md",
+    "Mytharia/Organisations/The Lustrous Mist.md",
+    "Mytharia/Organisations/The Saviours of Greenest.md",
+    "Mytharia/Organisations/The Wayfarer's Pack.md",
+    "Mytharia/People/Adventurers - Mytharia/Brett Con.md",
+    "Mytharia/People/Adventurers - Mytharia/Coletta D. Coolington.md",
+    "Mytharia/People/Adventurers - Mytharia/Karniss.md",
+    "Mytharia/People/Adventurers - Mytharia/Lyre Thair'Monistadt.md",
+    "Mytharia/People/Adventurers - Mytharia/Thugedge The Hoodlum.md",
+    "Mytharia/People/Adventurers - Mytharia/Tyrel, The Tarnisher.md",
+    "Mytharia/People/Adventurers - Mytharia/Yorick 'Yorkie' Jajijbol.md",
+    "Mytharia/People/Civilians - Mytharia/Nick Name.md",
+    "Mytharia/People/Civilians - Mytharia/Woulfe Gaange Moneymancer.md",
+    "Mytharia/People/Shopkeepers - Mytharia/Billbury.md",
+    "Mytharia/People/Shopkeepers - Mytharia/Catamari.md",
+    "Mytharia/People/Shopkeepers - Mytharia/Lemon.md",
+    "Mytharia/People/Shopkeepers - Mytharia/Scoop Dogg.md",
+    "Mytharia/People/Dr. Boom.md",
+    "Mytharia/People/Forsythia Mythralight.md",
+    "Mytharia/People/Gwendolyn Mythalight.md",
+    "Mytharia/People/Rhodri Mythralight.md",
+    "Mytharia/People/Robril Starsteel.md",
+    "Mytharia/People/Viktor Mythralight.md",
+    "Mytharia/People/Warren Mythralight.md",
+    "Mytharia/Planets/Mytharia Planet/Goidina/Goldas/Chickpea Diner.md",
+    "Mytharia/Planets/Mytharia Planet/Goidina/Goldas/Shop N' Hop.md",
+    "Mytharia/Planets/Mytharia Planet/Goidina/Goldas/Sir Antoine A. Adventure's Adventuring Academy.md",
+    "Mytharia/Planets/Mytharia Planet/Goidina/Coolsville.md",
+    "Mytharia/Planets/Mytharia Planet/Goidina/Goidina.md",
+    "Mytharia/Planets/Mytharia Planet/Griedoria/Remnil/New Dougleton/New Dougleton.md",
+    "Mytharia/Planets/Mytharia Planet/Griedoria/Remnil/Wingspan.md",
+    "Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Drop it Like It's Cold.md",
+    "Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Gryton's Grill.md",
+    "Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Heaven's Door.md",
+    "Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Paw-In Shop.md",
+    "Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Renexann.md",
+    "Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Web of Gems.md",
+    "Mytharia/Planets/Mytharia Planet/Rextaulia/Rextaulia.md",
+    "Mytharia/Planets/Mytharia Planet/The Divergent Isles/Lazulain/Lazulain.md",
+    "Mytharia/Planets/Mytharia Planet/The Divergent Isles/Ryukuma/Ryukuma Island.md",
+    "Mytharia/Planets/Mytharia Planet/The Divergent Isles/The Juno Isles/Yo-Yo shop.md",
+    "Mytharia/Planets/Mytharia Planet/The Divergent Isles/The Juno Isles.md",
+    "Mytharia/Planets/Mytharia Planet/Vortil/Remnil/Pious.md",
+    "Mytharia/Planets/Mytharia Planet/Vortil/Rextaulia/Jewel Harbour.md",
+    "Mytharia/Planets/Mytharia Planet/Vortil/Rextaulia/Rextaulia.md",
+    "Mytharia/Planets/Mytharia Planet/Vortil/The Greenest Empire/Greenest City/Greenest City.md",
+    "Volteya/Fulmin/Fulmin.md",
+    "Volteya/Sparksville/Sparksville.md",
+    "Volteya/Zappingham/Two Heels Diner.md",
+    "Volteya/Assier's Lair.md",
+    "Volteya/The Thundercloud.md",
+    "Volteya/Volt Action.md",
+    "Volteya/Volteya Overview.md",
+    "zImages/Agony darkness casket vale.png",
+    "zImages/Arthur_Swifteye.png",
+    "zImages/Batamagus.png",
+    "zImages/Begacahkos Emperor.jpg",
+    "zImages/cascade.png",
+    "zImages/Coolio Coolington Transparent.png",
+    "zImages/Cresie in the shadows.jpg",
+    "zImages/Cresie's breakdown.jpg",
+    "zImages/Florian.jpg",
+    "zImages/Forn Star family tree.png",
+    "zImages/Forsythia Portrait.png",
+    "zImages/Goojoo Sootaroo.png",
+    "zImages/Lemon Portrait.png",
+    "zImages/Niles.jpg",
+    "zImages/Oukruh Cool Stance.png",
+    "zImages/Oukruh in action.png",
+    "zImages/Oukruh Leaps into Flight.png",
+    "zImages/Oukruh turned away.png",
+    "zImages/Pasted image 20250223011632.png",
+    "zImages/Stylised Cresie.jpg",
+    "zImages/The Psionic Sunburst.png",
+    "zImages/Trading Tables from Heliana.png",
+    "zImages/Wyenne portrait.png",
     "Welcome.md",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -365,2048 +152,770 @@
     "lib/media/6155340132a851f6089e.svg"
   ],
   "fileInfo": {
-    "1. MoM - Memories of Mytharia/MoM Dungeons/Dishieples Dock.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1067,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Dungeons/Dishieples Dock.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Dungeons/Untitled.canvas": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 164,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Dungeons/Untitled.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Plot Threads/Across the Powergrid.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 399,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Plot Threads/Across the Powergrid.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Plot Threads/Blood of Sunaria.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 681,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Plot Threads/Blood of Sunaria.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Plot Threads/Damnatio Memoriae.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 3056,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Plot Threads/Damnatio Memoriae.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Plot Threads/Gloom Upon the Trees.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 155,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Plot Threads/Gloom Upon the Trees.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Plot Threads/Graduation Adventure.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 469,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Plot Threads/Graduation Adventure.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Plot Threads/Plot Threads.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 13523,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Plot Threads/Plot Threads.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Polnareff's Palace NPCs/Bramble of Greenest.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1258,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Polnareff's Palace NPCs/Bramble of Greenest.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Polnareff's Palace NPCs/Ginny Stitch.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 2003,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Polnareff's Palace NPCs/Ginny Stitch.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Polnareff's Palace NPCs/Homeless Harry H. Harrison.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1153,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Polnareff's Palace NPCs/Homeless Harry H. Harrison.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Polnareff's Palace NPCs/Johnny Razor.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1157,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Polnareff's Palace NPCs/Johnny Razor.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Polnareff's Palace NPCs/Polnareff's Palace.md": {
-      "modifiedTime": 1745528432843,
+    "Cross Planar Lore/Creatures/Heretical Badass Dragon.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 0,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Polnareff's Palace NPCs/Polnareff's Palace.html",
+      "exportedPath": "Cross Planar Lore/Creatures/Heretical Badass Dragon.html",
       "dependencies": []
     },
-    "1. MoM - Memories of Mytharia/MoM Polnareff's Palace NPCs/Slowdancer.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1121,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Polnareff's Palace NPCs/Slowdancer.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Polnareff's Palace NPCs/Spider-Volt.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1373,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Polnareff's Palace NPCs/Spider-Volt.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Polnareff's Palace NPCs/Treebert.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1235,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Polnareff's Palace NPCs/Treebert.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Adam 'Tango' Webb.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 205,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Adam 'Tango' Webb.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Ashley Johnsn.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 5016,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Ashley Johnsn.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Batamagus.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1008,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Batamagus.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Beetts.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 999,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Beetts.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Class Bully.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1279,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Class Bully.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Forsythia Mythralight - DM NOTE.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1024,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Forsythia Mythralight - DM NOTE.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Kali of Kolridge.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 3364,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Kali of Kolridge.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Kid Voltage.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1156,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Kid Voltage.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Laizee Beilar.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1034,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Laizee Beilar.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Lyssa of Renexan.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1052,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Lyssa of Renexan.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Raziel.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1212,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Raziel.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Relevant NPCs/The Joker.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 999,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Relevant NPCs/The Joker.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Relevant NPCs/The Volt King.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1036,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Relevant NPCs/The Volt King.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Tiamat.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1181,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Tiamat.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Viles Vorals.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1610,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Viles Vorals.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Volt Action.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 498,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Volt Action.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Wesley of Hillsville.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 2289,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Wesley of Hillsville.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Wyenne Belswanna Coochiggly Murdendrum.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 971,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Relevant NPCs/Wyenne Belswanna Coochiggly Murdendrum.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Action Heroes/Gloom Spider.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Action Heroes/Gloom Spider.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Action Heroes/Mick Graves.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Action Heroes/Mick Graves.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Action Heroes/T-Rextaulia.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Action Heroes/T-Rextaulia.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Action Heroes/The Damnator.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1045,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Action Heroes/The Damnator.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Action Heroes/The Fire Fighter.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Action Heroes/The Fire Fighter.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Action Heroes/The Metal Magician.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Action Heroes/The Metal Magician.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Action Heroes/Witch of Wrought.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Action Heroes/Witch of Wrought.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Seven Evil Opps/Chesake.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1115,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Seven Evil Opps/Chesake.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Seven Evil Opps/Heat Sink.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Seven Evil Opps/Heat Sink.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Seven Evil Opps/Lalythyxion.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1028,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Seven Evil Opps/Lalythyxion.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Seven Evil Opps/Shiesty Spider.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1152,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Seven Evil Opps/Shiesty Spider.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Seven Evil Opps/Spider Spice.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1352,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Seven Evil Opps/Spider Spice.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Seven Evil Opps/The Seven Evil Opps.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 143,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Seven Evil Opps/The Seven Evil Opps.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Seven Evil Opps/Vlad The Inflator.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1159,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Seven Evil Opps/Vlad The Inflator.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Seven Evil Opps/Wave Cap Willie.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Seven Evil Opps/Wave Cap Willie.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Relevant Organisations/The Tickle Troupe/The Grandest Goon.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Relevant Organisations/The Tickle Troupe/The Grandest Goon.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Relevant Organisations/The Tickle Troupe/The Master Baiter.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Relevant Organisations/The Tickle Troupe/The Master Baiter.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Relevant Organisations/The Tickle Troupe/The Tip Tickler.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1109,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Relevant Organisations/The Tickle Troupe/The Tip Tickler.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Volt Action/Disaster Action.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Relevant Organisations/Volt Action/Disaster Action.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 0.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 6855,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 0.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 1 You all meet in a tavern.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 1 You all meet in a tavern.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 2 Vampire in the Attic.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 2 Vampire in the Attic.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 3 Botched Thievery.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 3 Botched Thievery.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 4 Gyro Zeppeli.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 4 Gyro Zeppeli.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 5 Thwarting a Ritual.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 5 Thwarting a Ritual.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 6 The Door of Gloom.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 6 The Door of Gloom.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 7 4pm robbery.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 7 4pm robbery.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 8 Wizard Woman.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 8 Wizard Woman.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 9 Mysterious Liquids Mingle.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 9 Mysterious Liquids Mingle.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 10 King Basilisk.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 10 King Basilisk.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 11 Niles Norales vs The Fraud.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 11 Niles Norales vs The Fraud.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 12 Rolling for cancer and tarrasques.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 12 Rolling for cancer and tarrasques.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 13 Spider Heroics.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 13 Spider Heroics.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 14 Border Security.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 14 Border Security.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 15 The Greenest Incident.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 15 The Greenest Incident.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 16  Surgeries and Spinal Cords.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 16  Surgeries and Spinal Cords.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 17 Spider-Volt’s and Tip Ticklers.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1418,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 17 Spider-Volt’s and Tip Ticklers.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 18 The Banana Bread Incident.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 3349,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 18 The Banana Bread Incident.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 19 Banana Bread Unchained.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 4387,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 19 Banana Bread Unchained.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 20 Baking a Mistake.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 4579,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 20 Baking a Mistake.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 21 Coolsville Goidina.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 4756,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 21 Coolsville Goidina.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 22 The Creepy Woods.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 11019,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 22 The Creepy Woods.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 23 Having Mercy.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1526,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 23 Having Mercy.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 24 Improvised Fireball.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 5192,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 24 Improvised Fireball.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 25 Cruel and Unusual Punishment.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 2774,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 25 Cruel and Unusual Punishment.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 26 An Angel’s Last Act.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 3151,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 26 An Angel’s Last Act.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 27 Keeping up with the Coolingtons.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 4426,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 27 Keeping up with the Coolingtons.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 28 Coolsville departure.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 2381,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 28 Coolsville departure.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 29 The Planaclysm’s second coming..md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 5003,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 29 The Planaclysm’s second coming..html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 30 Coolio’s Nightmare.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 3467,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 30 Coolio’s Nightmare.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 31 The Hoodlum and the Hippo.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 7119,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 31 The Hoodlum and the Hippo.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 32 Mom, how are babies made.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 4128,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 32 Mom, how are babies made.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 33 A Wild Ride.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 3196,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 33 A Wild Ride.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 34 A Dream of Blue Veil.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 3499,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 34 A Dream of Blue Veil.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 35 Tavern Brawler Strife.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 4370,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 35 Tavern Brawler Strife.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 36 Death at the Concert Hall.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 6862,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 36 Death at the Concert Hall.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 37 Dinner with a star.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 5048,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 37 Dinner with a star.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 38 The Joys of Parenthood.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 3831,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 38 The Joys of Parenthood.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 39 Shopping among Shadows.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 2275,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 39 Shopping among Shadows.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 40 Familiar Reconnaissance.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 2336,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 40 Familiar Reconnaissance.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 41 The danger of Teen Pregnancy.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1901,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 41 The danger of Teen Pregnancy.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 42 Garrison Subterfuge.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 3251,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 42 Garrison Subterfuge.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 43 Gas Station Murder.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 2856,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 43 Gas Station Murder.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 44 Heart of the Cards.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 2055,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 44 Heart of the Cards.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 45 Time to Duel.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 3127,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 45 Time to Duel.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 46 Justified Crashout.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 5294,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 46 Justified Crashout.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 47 The Bear King's Forest.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 11160,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 47 The Bear King's Forest.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 48 The Adventurers who saved Voltamas.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 8865,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 48 The Adventurers who saved Voltamas.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 49 A Voltmas Miracle.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1703,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 49 A Voltmas Miracle.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 50 Scourges of the sea.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 2758,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 50 Scourges of the sea.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 51 Fragments of a Dead Universe.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 2088,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 51 Fragments of a Dead Universe.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 52 It's time for us to go...md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 3371,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 52 It's time for us to go...html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/session 53 A Glorious Return.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 2843,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/session 53 A Glorious Return.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 54 Shots fired at Drop It Like It's Cold.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 2138,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 54 Shots fired at Drop It Like It's Cold.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 55 The Outsiders.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 3566,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 55 The Outsiders.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 56 The Action Heroes.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 3371,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 56 The Action Heroes.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 57 Dabbling in Interrogation.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 3592,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 57 Dabbling in Interrogation.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 58 Hunting for Dishieples.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 870,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 58 Hunting for Dishieples.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 59 Let's Do This One Last Time....md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 3399,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 59 Let's Do This One Last Time....html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 60 My name is Spider-Volt.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1885,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 60 My name is Spider-Volt.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Session Notes/Session 61.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 115,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Session Notes/Session 61.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM The Party/Polnareff's Palace/1 Polnareff's Palace.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM The Party/Polnareff's Palace/1 Polnareff's Palace.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM The Party/Polnareff's Palace/Abba Valentine.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM The Party/Polnareff's Palace/Abba Valentine.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM The Party/Polnareff's Palace/Braile Jonson.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM The Party/Polnareff's Palace/Braile Jonson.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM The Party/Polnareff's Palace/Diani.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM The Party/Polnareff's Palace/Diani.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM The Party/Polnareff's Palace/Enderman.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM The Party/Polnareff's Palace/Enderman.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM The Party/Polnareff's Palace/Fence.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 153,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM The Party/Polnareff's Palace/Fence.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM The Party/Polnareff's Palace/Polnareff.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 236,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM The Party/Polnareff's Palace/Polnareff.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM The Party/Polnareff's Palace/Ringo Valentine.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM The Party/Polnareff's Palace/Ringo Valentine.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM The Party/Polnareff's Palace/Treebert MeowMeow.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM The Party/Polnareff's Palace/Treebert MeowMeow.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM The Party/Polnareff's Palace/Tymor.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1036,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM The Party/Polnareff's Palace/Tymor.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM The Party/Cal MeowMeow.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 120,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM The Party/Cal MeowMeow.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM The Party/Coolio Coolington.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 4895,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM The Party/Coolio Coolington.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM The Party/Cresie Beilar.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 7983,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM The Party/Cresie Beilar.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM The Party/DOOR.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1025,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM The Party/DOOR.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM The Party/Duel-Lilah.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1022,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM The Party/Duel-Lilah.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM The Party/Niles Norales.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1431,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM The Party/Niles Norales.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM The Party/Oukruh.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 4669,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM The Party/Oukruh.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM The Party/Silver Lawson.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM The Party/Silver Lawson.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM The Party/The Outsiders.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM The Party/The Outsiders.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/Memories of Mytharia.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 178,
-      "exportedPath": "1. MoM - Memories of Mytharia/Memories of Mytharia.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/MoM Outline.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 2609,
-      "exportedPath": "1. MoM - Memories of Mytharia/MoM Outline.html",
-      "dependencies": []
-    },
-    "1. MoM - Memories of Mytharia/Post Campaign Notes.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1787,
-      "exportedPath": "1. MoM - Memories of Mytharia/Post Campaign Notes.html",
-      "dependencies": []
-    },
-    "1. TOTA - Tides of the Abyss/DS Plot Threads/Emerald blood and betrayal.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 235,
-      "exportedPath": "1. TOTA - Tides of the Abyss/DS Plot Threads/Emerald blood and betrayal.html",
-      "dependencies": []
-    },
-    "1. TOTA - Tides of the Abyss/DS Plot Threads/Foxes among Stars.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. TOTA - Tides of the Abyss/DS Plot Threads/Foxes among Stars.html",
-      "dependencies": []
-    },
-    "1. TOTA - Tides of the Abyss/DS Plot Threads/Revelry of the Damned.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 332,
-      "exportedPath": "1. TOTA - Tides of the Abyss/DS Plot Threads/Revelry of the Damned.html",
-      "dependencies": []
-    },
-    "1. TOTA - Tides of the Abyss/DS Plot Threads/Storms of the Isles.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 256,
-      "exportedPath": "1. TOTA - Tides of the Abyss/DS Plot Threads/Storms of the Isles.html",
-      "dependencies": []
-    },
-    "1. TOTA - Tides of the Abyss/DS Relevant NPCs/Bazraz.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1389,
-      "exportedPath": "1. TOTA - Tides of the Abyss/DS Relevant NPCs/Bazraz.html",
-      "dependencies": []
-    },
-    "1. TOTA - Tides of the Abyss/DS Relevant NPCs/Captain Cascade.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1645,
-      "exportedPath": "1. TOTA - Tides of the Abyss/DS Relevant NPCs/Captain Cascade.html",
-      "dependencies": []
-    },
-    "1. TOTA - Tides of the Abyss/DS Relevant NPCs/Captain Dahlia of Wellspring.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1159,
-      "exportedPath": "1. TOTA - Tides of the Abyss/DS Relevant NPCs/Captain Dahlia of Wellspring.html",
-      "dependencies": []
-    },
-    "1. TOTA - Tides of the Abyss/DS Relevant NPCs/Flavius The Fast.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1611,
-      "exportedPath": "1. TOTA - Tides of the Abyss/DS Relevant NPCs/Flavius The Fast.html",
-      "dependencies": []
-    },
-    "1. TOTA - Tides of the Abyss/DS Relevant NPCs/Jas Qu'uinn.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. TOTA - Tides of the Abyss/DS Relevant NPCs/Jas Qu'uinn.html",
-      "dependencies": []
-    },
-    "1. TOTA - Tides of the Abyss/DS Relevant NPCs/Leglas.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1052,
-      "exportedPath": "1. TOTA - Tides of the Abyss/DS Relevant NPCs/Leglas.html",
-      "dependencies": []
-    },
-    "1. TOTA - Tides of the Abyss/DS Relevant NPCs/Surge of Rextaulia.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1067,
-      "exportedPath": "1. TOTA - Tides of the Abyss/DS Relevant NPCs/Surge of Rextaulia.html",
-      "dependencies": []
-    },
-    "1. TOTA - Tides of the Abyss/DS Session Notes/Session 0.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 6605,
-      "exportedPath": "1. TOTA - Tides of the Abyss/DS Session Notes/Session 0.html",
-      "dependencies": []
-    },
-    "1. TOTA - Tides of the Abyss/DS Session Notes/Session 1 Dissentry.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1726,
-      "exportedPath": "1. TOTA - Tides of the Abyss/DS Session Notes/Session 1 Dissentry.html",
-      "dependencies": []
-    },
-    "1. TOTA - Tides of the Abyss/DS Session Notes/Session 2 Unionisation.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 6292,
-      "exportedPath": "1. TOTA - Tides of the Abyss/DS Session Notes/Session 2 Unionisation.html",
-      "dependencies": []
-    },
-    "1. TOTA - Tides of the Abyss/DS Session Notes/Session 3.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 3017,
-      "exportedPath": "1. TOTA - Tides of the Abyss/DS Session Notes/Session 3.html",
-      "dependencies": []
-    },
-    "1. TOTA - Tides of the Abyss/DS Session Notes/Session 4.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. TOTA - Tides of the Abyss/DS Session Notes/Session 4.html",
-      "dependencies": []
-    },
-    "1. TOTA - Tides of the Abyss/DS Session Notes/Session 5.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 2041,
-      "exportedPath": "1. TOTA - Tides of the Abyss/DS Session Notes/Session 5.html",
-      "dependencies": []
-    },
-    "1. TOTA - Tides of the Abyss/DS Session Notes/Session 6.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 2892,
-      "exportedPath": "1. TOTA - Tides of the Abyss/DS Session Notes/Session 6.html",
-      "dependencies": []
-    },
-    "1. TOTA - Tides of the Abyss/DS Session Notes/Session 7.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 3113,
-      "exportedPath": "1. TOTA - Tides of the Abyss/DS Session Notes/Session 7.html",
-      "dependencies": []
-    },
-    "1. TOTA - Tides of the Abyss/DS Session Notes/Session 8.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 580,
-      "exportedPath": "1. TOTA - Tides of the Abyss/DS Session Notes/Session 8.html",
-      "dependencies": []
-    },
-    "1. TOTA - Tides of the Abyss/DS The Party/Astriel.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "1. TOTA - Tides of the Abyss/DS The Party/Astriel.html",
-      "dependencies": []
-    },
-    "1. TOTA - Tides of the Abyss/DS The Party/Cassian.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 7225,
-      "exportedPath": "1. TOTA - Tides of the Abyss/DS The Party/Cassian.html",
-      "dependencies": []
-    },
-    "1. TOTA - Tides of the Abyss/DS The Party/Florian of Greenest.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1295,
-      "exportedPath": "1. TOTA - Tides of the Abyss/DS The Party/Florian of Greenest.html",
-      "dependencies": []
-    },
-    "1. TOTA - Tides of the Abyss/DS The Party/Forn Star.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1192,
-      "exportedPath": "1. TOTA - Tides of the Abyss/DS The Party/Forn Star.html",
-      "dependencies": []
-    },
-    "1. TOTA - Tides of the Abyss/DS The Party/Harry Gucc.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1348,
-      "exportedPath": "1. TOTA - Tides of the Abyss/DS The Party/Harry Gucc.html",
-      "dependencies": []
-    },
-    "1. TOTA - Tides of the Abyss/DS The Party/Valentino of New Dougleton.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1407,
-      "exportedPath": "1. TOTA - Tides of the Abyss/DS The Party/Valentino of New Dougleton.html",
-      "dependencies": []
-    },
-    "1. TOTA - Tides of the Abyss/Divergent Seas Outline.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 3777,
-      "exportedPath": "1. TOTA - Tides of the Abyss/Divergent Seas Outline.html",
-      "dependencies": []
-    },
-    "1. TOTA - Tides of the Abyss/Fallen temple to The Mistress of The Abyss.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 8052,
-      "exportedPath": "1. TOTA - Tides of the Abyss/Fallen temple to The Mistress of The Abyss.html",
-      "dependencies": []
-    },
-    "2. Mytharia/History/The Planaclysm.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 580,
-      "exportedPath": "2. Mytharia/History/The Planaclysm.html",
-      "dependencies": []
-    },
-    "2. Mytharia/Organisations/The Crunch Crack Pirate Crew.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 797,
-      "exportedPath": "2. Mytharia/Organisations/The Crunch Crack Pirate Crew.html",
-      "dependencies": []
-    },
-    "2. Mytharia/Organisations/The Lustrous Mist.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 486,
-      "exportedPath": "2. Mytharia/Organisations/The Lustrous Mist.html",
-      "dependencies": []
-    },
-    "2. Mytharia/Organisations/The Saviours of Greenest.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 442,
-      "exportedPath": "2. Mytharia/Organisations/The Saviours of Greenest.html",
-      "dependencies": []
-    },
-    "2. Mytharia/Organisations/The Wayfarer's Pack.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 665,
-      "exportedPath": "2. Mytharia/Organisations/The Wayfarer's Pack.html",
-      "dependencies": []
-    },
-    "2. Mytharia/People/Adventurers - Mytharia/Brett Con.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1133,
-      "exportedPath": "2. Mytharia/People/Adventurers - Mytharia/Brett Con.html",
-      "dependencies": []
-    },
-    "2. Mytharia/People/Adventurers - Mytharia/Coletta D. Coolington.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1280,
-      "exportedPath": "2. Mytharia/People/Adventurers - Mytharia/Coletta D. Coolington.html",
-      "dependencies": []
-    },
-    "2. Mytharia/People/Adventurers - Mytharia/Karniss.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1031,
-      "exportedPath": "2. Mytharia/People/Adventurers - Mytharia/Karniss.html",
-      "dependencies": []
-    },
-    "2. Mytharia/People/Adventurers - Mytharia/Lyre Thair'Monistadt.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1025,
-      "exportedPath": "2. Mytharia/People/Adventurers - Mytharia/Lyre Thair'Monistadt.html",
-      "dependencies": []
-    },
-    "2. Mytharia/People/Adventurers - Mytharia/Thugedge The Hoodlum.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1020,
-      "exportedPath": "2. Mytharia/People/Adventurers - Mytharia/Thugedge The Hoodlum.html",
-      "dependencies": []
-    },
-    "2. Mytharia/People/Adventurers - Mytharia/Tyrel, The Tarnisher.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1083,
-      "exportedPath": "2. Mytharia/People/Adventurers - Mytharia/Tyrel, The Tarnisher.html",
-      "dependencies": []
-    },
-    "2. Mytharia/People/Adventurers - Mytharia/Yorick 'Yorkie' Jajijbol.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 936,
-      "exportedPath": "2. Mytharia/People/Adventurers - Mytharia/Yorick 'Yorkie' Jajijbol.html",
-      "dependencies": []
-    },
-    "2. Mytharia/People/Civilians - Mytharia/Nick Name.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1517,
-      "exportedPath": "2. Mytharia/People/Civilians - Mytharia/Nick Name.html",
-      "dependencies": []
-    },
-    "2. Mytharia/People/Civilians - Mytharia/Woulfe Gaange Moneymancer.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1035,
-      "exportedPath": "2. Mytharia/People/Civilians - Mytharia/Woulfe Gaange Moneymancer.html",
-      "dependencies": []
-    },
-    "2. Mytharia/People/Shopkeepers - Mytharia/Billbury.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 999,
-      "exportedPath": "2. Mytharia/People/Shopkeepers - Mytharia/Billbury.html",
-      "dependencies": []
-    },
-    "2. Mytharia/People/Shopkeepers - Mytharia/Catamari.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1020,
-      "exportedPath": "2. Mytharia/People/Shopkeepers - Mytharia/Catamari.html",
-      "dependencies": []
-    },
-    "2. Mytharia/People/Shopkeepers - Mytharia/Lemon.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1617,
-      "exportedPath": "2. Mytharia/People/Shopkeepers - Mytharia/Lemon.html",
-      "dependencies": []
-    },
-    "2. Mytharia/People/Shopkeepers - Mytharia/Scoop Dogg.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1020,
-      "exportedPath": "2. Mytharia/People/Shopkeepers - Mytharia/Scoop Dogg.html",
-      "dependencies": []
-    },
-    "2. Mytharia/People/Dr. Boom.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 999,
-      "exportedPath": "2. Mytharia/People/Dr. Boom.html",
-      "dependencies": []
-    },
-    "2. Mytharia/People/Forsythia Mythralight.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 7331,
-      "exportedPath": "2. Mytharia/People/Forsythia Mythralight.html",
-      "dependencies": []
-    },
-    "2. Mytharia/People/Gwendolyn Mythalight.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "2. Mytharia/People/Gwendolyn Mythalight.html",
-      "dependencies": []
-    },
-    "2. Mytharia/People/Rhodri Mythralight.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1024,
-      "exportedPath": "2. Mytharia/People/Rhodri Mythralight.html",
-      "dependencies": []
-    },
-    "2. Mytharia/People/Robril Starsteel.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "2. Mytharia/People/Robril Starsteel.html",
-      "dependencies": []
-    },
-    "2. Mytharia/People/Viktor Mythralight.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "2. Mytharia/People/Viktor Mythralight.html",
-      "dependencies": []
-    },
-    "2. Mytharia/People/Warren Mythralight.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "2. Mytharia/People/Warren Mythralight.html",
-      "dependencies": []
-    },
-    "2. Mytharia/Planets/Mytharia Planet/Goidina/Goldas/Chickpea Diner.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "2. Mytharia/Planets/Mytharia Planet/Goidina/Goldas/Chickpea Diner.html",
-      "dependencies": []
-    },
-    "2. Mytharia/Planets/Mytharia Planet/Goidina/Goldas/Shop N' Hop.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "2. Mytharia/Planets/Mytharia Planet/Goidina/Goldas/Shop N' Hop.html",
-      "dependencies": []
-    },
-    "2. Mytharia/Planets/Mytharia Planet/Goidina/Goldas/Sir Antoine A. Adventure's Adventuring Academy.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 702,
-      "exportedPath": "2. Mytharia/Planets/Mytharia Planet/Goidina/Goldas/Sir Antoine A. Adventure's Adventuring Academy.html",
-      "dependencies": []
-    },
-    "2. Mytharia/Planets/Mytharia Planet/Goidina/Coolsville.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 721,
-      "exportedPath": "2. Mytharia/Planets/Mytharia Planet/Goidina/Coolsville.html",
-      "dependencies": []
-    },
-    "2. Mytharia/Planets/Mytharia Planet/Goidina/Goidina.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "2. Mytharia/Planets/Mytharia Planet/Goidina/Goidina.html",
-      "dependencies": []
-    },
-    "2. Mytharia/Planets/Mytharia Planet/Griedoria/Remnil/New Dougleton/New Dougleton.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "2. Mytharia/Planets/Mytharia Planet/Griedoria/Remnil/New Dougleton/New Dougleton.html",
-      "dependencies": []
-    },
-    "2. Mytharia/Planets/Mytharia Planet/Griedoria/Remnil/Wingspan.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "2. Mytharia/Planets/Mytharia Planet/Griedoria/Remnil/Wingspan.html",
-      "dependencies": []
-    },
-    "2. Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Drop it Like It's Cold.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1069,
-      "exportedPath": "2. Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Drop it Like It's Cold.html",
-      "dependencies": []
-    },
-    "2. Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Gryton's Grill.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 540,
-      "exportedPath": "2. Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Gryton's Grill.html",
-      "dependencies": []
-    },
-    "2. Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Heaven's Door.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1722,
-      "exportedPath": "2. Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Heaven's Door.html",
-      "dependencies": []
-    },
-    "2. Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Paw-In Shop.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1251,
-      "exportedPath": "2. Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Paw-In Shop.html",
-      "dependencies": []
-    },
-    "2. Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Renexann.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 702,
-      "exportedPath": "2. Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Renexann.html",
-      "dependencies": []
-    },
-    "2. Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Web of Gems.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "2. Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Web of Gems.html",
-      "dependencies": []
-    },
-    "2. Mytharia/Planets/Mytharia Planet/Rextaulia/Rextaulia.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1714,
-      "exportedPath": "2. Mytharia/Planets/Mytharia Planet/Rextaulia/Rextaulia.html",
-      "dependencies": []
-    },
-    "2. Mytharia/Planets/Mytharia Planet/The Divergent Isles/Lazulain/Lazulain.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 822,
-      "exportedPath": "2. Mytharia/Planets/Mytharia Planet/The Divergent Isles/Lazulain/Lazulain.html",
-      "dependencies": []
-    },
-    "2. Mytharia/Planets/Mytharia Planet/The Divergent Isles/Ryukuma/Ryukuma Island.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1083,
-      "exportedPath": "2. Mytharia/Planets/Mytharia Planet/The Divergent Isles/Ryukuma/Ryukuma Island.html",
-      "dependencies": []
-    },
-    "2. Mytharia/Planets/Mytharia Planet/The Divergent Isles/The Juno Isles/Yo-Yo shop.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "2. Mytharia/Planets/Mytharia Planet/The Divergent Isles/The Juno Isles/Yo-Yo shop.html",
-      "dependencies": []
-    },
-    "2. Mytharia/Planets/Mytharia Planet/The Divergent Isles/The Juno Isles.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1578,
-      "exportedPath": "2. Mytharia/Planets/Mytharia Planet/The Divergent Isles/The Juno Isles.html",
-      "dependencies": []
-    },
-    "2. Mytharia/Planets/Mytharia Planet/Vortil/Remnil/Pious.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 836,
-      "exportedPath": "2. Mytharia/Planets/Mytharia Planet/Vortil/Remnil/Pious.html",
-      "dependencies": []
-    },
-    "2. Mytharia/Planets/Mytharia Planet/Vortil/Rextaulia/Jewel Harbour.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 946,
-      "exportedPath": "2. Mytharia/Planets/Mytharia Planet/Vortil/Rextaulia/Jewel Harbour.html",
-      "dependencies": []
-    },
-    "2. Mytharia/Planets/Mytharia Planet/Vortil/Rextaulia/Rextaulia.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "2. Mytharia/Planets/Mytharia Planet/Vortil/Rextaulia/Rextaulia.html",
-      "dependencies": []
-    },
-    "2. Mytharia/Planets/Mytharia Planet/Vortil/The Greenest Empire/Greenest City/Greenest City.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "2. Mytharia/Planets/Mytharia Planet/Vortil/The Greenest Empire/Greenest City/Greenest City.html",
-      "dependencies": []
-    },
-    "2. Volteya/Fulmin/Fulmin.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "2. Volteya/Fulmin/Fulmin.html",
-      "dependencies": []
-    },
-    "2. Volteya/Sparksville/Sparksville.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "2. Volteya/Sparksville/Sparksville.html",
-      "dependencies": []
-    },
-    "2. Volteya/Zappingham/Two Heels Diner.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 605,
-      "exportedPath": "2. Volteya/Zappingham/Two Heels Diner.html",
-      "dependencies": []
-    },
-    "2. Volteya/Assier's Lair.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1164,
-      "exportedPath": "2. Volteya/Assier's Lair.html",
-      "dependencies": []
-    },
-    "2. Volteya/The Thundercloud.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 702,
-      "exportedPath": "2. Volteya/The Thundercloud.html",
-      "dependencies": []
-    },
-    "2. Volteya/Volt Action.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "2. Volteya/Volt Action.html",
-      "dependencies": []
-    },
-    "2. Volteya/Volteya Overview.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 2109,
-      "exportedPath": "2. Volteya/Volteya Overview.html",
-      "dependencies": []
-    },
-    "3. Cross Planar Lore/Creatures/Heretical Badass Dragon.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "3. Cross Planar Lore/Creatures/Heretical Badass Dragon.html",
-      "dependencies": []
-    },
-    "3. Cross Planar Lore/Creatures/Ink Devil.md": {
-      "modifiedTime": 1745528432843,
+    "Cross Planar Lore/Creatures/Ink Devil.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 629,
-      "exportedPath": "3. Cross Planar Lore/Creatures/Ink Devil.html",
+      "exportedPath": "Cross Planar Lore/Creatures/Ink Devil.html",
       "dependencies": []
     },
-    "3. Cross Planar Lore/Creatures/Malevolent Spirits.md": {
-      "modifiedTime": 1745528432843,
+    "Cross Planar Lore/Creatures/Malevolent Spirits.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 1607,
-      "exportedPath": "3. Cross Planar Lore/Creatures/Malevolent Spirits.html",
+      "exportedPath": "Cross Planar Lore/Creatures/Malevolent Spirits.html",
       "dependencies": []
     },
-    "3. Cross Planar Lore/Creatures/Malphas.md": {
-      "modifiedTime": 1745528432843,
+    "Cross Planar Lore/Creatures/Malphas.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 1343,
-      "exportedPath": "3. Cross Planar Lore/Creatures/Malphas.html",
+      "exportedPath": "Cross Planar Lore/Creatures/Malphas.html",
       "dependencies": []
     },
-    "3. Cross Planar Lore/Creatures/Slaughter Demon.md": {
-      "modifiedTime": 1745528432843,
+    "Cross Planar Lore/Creatures/Slaughter Demon.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 0,
-      "exportedPath": "3. Cross Planar Lore/Creatures/Slaughter Demon.html",
+      "exportedPath": "Cross Planar Lore/Creatures/Slaughter Demon.html",
       "dependencies": []
     },
-    "3. Cross Planar Lore/Items/Titan Blood.md": {
-      "modifiedTime": 1745528432843,
+    "Cross Planar Lore/Items/Titan Blood.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 0,
-      "exportedPath": "3. Cross Planar Lore/Items/Titan Blood.html",
+      "exportedPath": "Cross Planar Lore/Items/Titan Blood.html",
       "dependencies": []
     },
-    "3. Cross Planar Lore/Professions/Pirate.md": {
-      "modifiedTime": 1745528432843,
+    "Cross Planar Lore/Professions/Pirate.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 0,
-      "exportedPath": "3. Cross Planar Lore/Professions/Pirate.html",
+      "exportedPath": "Cross Planar Lore/Professions/Pirate.html",
       "dependencies": []
     },
-    "3. Cross Planar Lore/Professions/Superhero.md": {
-      "modifiedTime": 1745528432843,
+    "Cross Planar Lore/Professions/Superhero.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 0,
-      "exportedPath": "3. Cross Planar Lore/Professions/Superhero.html",
+      "exportedPath": "Cross Planar Lore/Professions/Superhero.html",
       "dependencies": []
     },
-    "3. Cross Planar Lore/Professions/Wizard.md": {
-      "modifiedTime": 1745528432843,
+    "Cross Planar Lore/Professions/Wizard.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 123,
-      "exportedPath": "3. Cross Planar Lore/Professions/Wizard.html",
+      "exportedPath": "Cross Planar Lore/Professions/Wizard.html",
       "dependencies": []
     },
-    "3. Cross Planar Lore/Sapient Species/B-Head.md": {
-      "modifiedTime": 1745528432843,
+    "Cross Planar Lore/Sapient Species/B-Head.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 470,
-      "exportedPath": "3. Cross Planar Lore/Sapient Species/B-Head.html",
+      "exportedPath": "Cross Planar Lore/Sapient Species/B-Head.html",
       "dependencies": []
     },
-    "3. Cross Planar Lore/Sapient Species/Bègacahkos.md": {
-      "modifiedTime": 1745528432843,
+    "Cross Planar Lore/Sapient Species/Bègacahkos.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 4329,
-      "exportedPath": "3. Cross Planar Lore/Sapient Species/Bègacahkos.html",
+      "exportedPath": "Cross Planar Lore/Sapient Species/Bègacahkos.html",
       "dependencies": []
     },
-    "3. Cross Planar Lore/Sapient Species/Birdfolk.md": {
-      "modifiedTime": 1745528432843,
+    "Cross Planar Lore/Sapient Species/Birdfolk.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 772,
-      "exportedPath": "3. Cross Planar Lore/Sapient Species/Birdfolk.html",
+      "exportedPath": "Cross Planar Lore/Sapient Species/Birdfolk.html",
       "dependencies": []
     },
-    "3. Cross Planar Lore/Sapient Species/Golem.md": {
-      "modifiedTime": 1745528432843,
+    "Cross Planar Lore/Sapient Species/Golem.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 654,
-      "exportedPath": "3. Cross Planar Lore/Sapient Species/Golem.html",
+      "exportedPath": "Cross Planar Lore/Sapient Species/Golem.html",
       "dependencies": []
     },
-    "3. Cross Planar Lore/Sapient Species/Human.md": {
-      "modifiedTime": 1745528432843,
+    "Cross Planar Lore/Sapient Species/Human.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 0,
-      "exportedPath": "3. Cross Planar Lore/Sapient Species/Human.html",
+      "exportedPath": "Cross Planar Lore/Sapient Species/Human.html",
       "dependencies": []
     },
-    "3. Cross Planar Lore/Sapient Species/Saiyan.md": {
-      "modifiedTime": 1745528432843,
+    "Cross Planar Lore/Sapient Species/Saiyan.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 1453,
-      "exportedPath": "3. Cross Planar Lore/Sapient Species/Saiyan.html",
+      "exportedPath": "Cross Planar Lore/Sapient Species/Saiyan.html",
       "dependencies": []
     },
-    "3. Cross Planar Lore/Sapient Species/Troll.md": {
-      "modifiedTime": 1745528432843,
+    "Cross Planar Lore/Sapient Species/Troll.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 3024,
-      "exportedPath": "3. Cross Planar Lore/Sapient Species/Troll.html",
+      "exportedPath": "Cross Planar Lore/Sapient Species/Troll.html",
       "dependencies": []
     },
-    "3. Cross Planar Lore/Sapient Species/Vampire.md": {
-      "modifiedTime": 1745528432843,
+    "Cross Planar Lore/Sapient Species/Vampire.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 629,
-      "exportedPath": "3. Cross Planar Lore/Sapient Species/Vampire.html",
+      "exportedPath": "Cross Planar Lore/Sapient Species/Vampire.html",
       "dependencies": []
     },
-    "3. Cross Planar Lore/Sapient Species/Vulpalf.md": {
-      "modifiedTime": 1745528432843,
+    "Cross Planar Lore/Sapient Species/Vulpalf.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 1819,
-      "exportedPath": "3. Cross Planar Lore/Sapient Species/Vulpalf.html",
+      "exportedPath": "Cross Planar Lore/Sapient Species/Vulpalf.html",
       "dependencies": []
     },
-    "3. Cross Planar Lore/Worship/Dead Gods/The Man With No Name.md": {
-      "modifiedTime": 1745528432843,
+    "Cross Planar Lore/Worship/Dead Gods/The Man With No Name.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 6060,
-      "exportedPath": "3. Cross Planar Lore/Worship/Dead Gods/The Man With No Name.html",
+      "exportedPath": "Cross Planar Lore/Worship/Dead Gods/The Man With No Name.html",
       "dependencies": []
     },
-    "3. Cross Planar Lore/Worship/Gods/The Curate of The Occult.md": {
-      "modifiedTime": 1745528432843,
+    "Cross Planar Lore/Worship/Gods/The Curate of The Occult.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 0,
-      "exportedPath": "3. Cross Planar Lore/Worship/Gods/The Curate of The Occult.html",
+      "exportedPath": "Cross Planar Lore/Worship/Gods/The Curate of The Occult.html",
       "dependencies": []
     },
-    "3. Cross Planar Lore/Worship/Gods/The Daydreamer.md": {
-      "modifiedTime": 1745528432843,
+    "Cross Planar Lore/Worship/Gods/The Daydreamer.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 23,
-      "exportedPath": "3. Cross Planar Lore/Worship/Gods/The Daydreamer.html",
+      "exportedPath": "Cross Planar Lore/Worship/Gods/The Daydreamer.html",
       "dependencies": []
     },
-    "3. Cross Planar Lore/Worship/Gods/The Dear Leader.md": {
-      "modifiedTime": 1745528432843,
+    "Cross Planar Lore/Worship/Gods/The Dear Leader.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 0,
-      "exportedPath": "3. Cross Planar Lore/Worship/Gods/The Dear Leader.html",
+      "exportedPath": "Cross Planar Lore/Worship/Gods/The Dear Leader.html",
       "dependencies": []
     },
-    "3. Cross Planar Lore/Worship/Gods/The Ether Crafter.md": {
-      "modifiedTime": 1745528432843,
+    "Cross Planar Lore/Worship/Gods/The Ether Crafter.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 0,
-      "exportedPath": "3. Cross Planar Lore/Worship/Gods/The Ether Crafter.html",
+      "exportedPath": "Cross Planar Lore/Worship/Gods/The Ether Crafter.html",
       "dependencies": []
     },
-    "3. Cross Planar Lore/Worship/Gods/The False Sufferer.md": {
-      "modifiedTime": 1745528432843,
+    "Cross Planar Lore/Worship/Gods/The False Sufferer.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 0,
-      "exportedPath": "3. Cross Planar Lore/Worship/Gods/The False Sufferer.html",
+      "exportedPath": "Cross Planar Lore/Worship/Gods/The False Sufferer.html",
       "dependencies": []
     },
-    "3. Cross Planar Lore/Worship/Gods/The Golden Phoenix.md": {
-      "modifiedTime": 1745528432843,
+    "Cross Planar Lore/Worship/Gods/The Golden Phoenix.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 0,
-      "exportedPath": "3. Cross Planar Lore/Worship/Gods/The Golden Phoenix.html",
+      "exportedPath": "Cross Planar Lore/Worship/Gods/The Golden Phoenix.html",
       "dependencies": []
     },
-    "3. Cross Planar Lore/Worship/Gods/The Hearthmother.md": {
-      "modifiedTime": 1745528432843,
+    "Cross Planar Lore/Worship/Gods/The Hearthmother.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 0,
-      "exportedPath": "3. Cross Planar Lore/Worship/Gods/The Hearthmother.html",
+      "exportedPath": "Cross Planar Lore/Worship/Gods/The Hearthmother.html",
       "dependencies": []
     },
-    "3. Cross Planar Lore/Worship/Gods/The Lady of Arcana.md": {
-      "modifiedTime": 1745528432843,
+    "Cross Planar Lore/Worship/Gods/The Lady of Arcana.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 0,
-      "exportedPath": "3. Cross Planar Lore/Worship/Gods/The Lady of Arcana.html",
+      "exportedPath": "Cross Planar Lore/Worship/Gods/The Lady of Arcana.html",
       "dependencies": []
     },
-    "3. Cross Planar Lore/Worship/Gods/The Master of Luck.md": {
-      "modifiedTime": 1745528432843,
+    "Cross Planar Lore/Worship/Gods/The Master of Luck.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 0,
-      "exportedPath": "3. Cross Planar Lore/Worship/Gods/The Master of Luck.html",
+      "exportedPath": "Cross Planar Lore/Worship/Gods/The Master of Luck.html",
       "dependencies": []
     },
-    "3. Cross Planar Lore/Worship/Gods/The Muffin Lord.md": {
-      "modifiedTime": 1745528432843,
+    "Cross Planar Lore/Worship/Gods/The Muffin Lord.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 0,
-      "exportedPath": "3. Cross Planar Lore/Worship/Gods/The Muffin Lord.html",
+      "exportedPath": "Cross Planar Lore/Worship/Gods/The Muffin Lord.html",
       "dependencies": []
     },
-    "3. Cross Planar Lore/Worship/Gods/The Shadowhunter.md": {
-      "modifiedTime": 1745528432843,
+    "Cross Planar Lore/Worship/Gods/The Shadowhunter.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 0,
-      "exportedPath": "3. Cross Planar Lore/Worship/Gods/The Shadowhunter.html",
+      "exportedPath": "Cross Planar Lore/Worship/Gods/The Shadowhunter.html",
       "dependencies": []
     },
-    "3. Cross Planar Lore/Worship/Gods/The Time Keeper.md": {
-      "modifiedTime": 1745528432843,
+    "Cross Planar Lore/Worship/Gods/The Time Keeper.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 0,
-      "exportedPath": "3. Cross Planar Lore/Worship/Gods/The Time Keeper.html",
+      "exportedPath": "Cross Planar Lore/Worship/Gods/The Time Keeper.html",
       "dependencies": []
     },
-    "3. Cross Planar Lore/Worship/Gods/The Woman of Heart.md": {
-      "modifiedTime": 1745528432843,
+    "Cross Planar Lore/Worship/Gods/The Woman of Heart.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 0,
-      "exportedPath": "3. Cross Planar Lore/Worship/Gods/The Woman of Heart.html",
+      "exportedPath": "Cross Planar Lore/Worship/Gods/The Woman of Heart.html",
       "dependencies": []
     },
-    "3. Cross Planar Lore/Astrology.md": {
-      "modifiedTime": 1745528432843,
+    "Cross Planar Lore/Astrology.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 9027,
-      "exportedPath": "3. Cross Planar Lore/Astrology.html",
+      "exportedPath": "Cross Planar Lore/Astrology.html",
       "dependencies": []
     },
-    "3. Cross Planar Lore/Lodestar.md": {
-      "modifiedTime": 1745528432843,
+    "Cross Planar Lore/Lodestar.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 3643,
-      "exportedPath": "3. Cross Planar Lore/Lodestar.html",
+      "exportedPath": "Cross Planar Lore/Lodestar.html",
       "dependencies": []
     },
-    "3. Cross Planar Lore/Pharos.md": {
-      "modifiedTime": 1745528432843,
+    "Cross Planar Lore/Pharos.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 1620,
-      "exportedPath": "3. Cross Planar Lore/Pharos.html",
+      "exportedPath": "Cross Planar Lore/Pharos.html",
       "dependencies": []
     },
-    "3. Cross Planar Lore/Soulscorching.md": {
-      "modifiedTime": 1745528432843,
+    "Cross Planar Lore/Soulscorching.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 691,
-      "exportedPath": "3. Cross Planar Lore/Soulscorching.html",
+      "exportedPath": "Cross Planar Lore/Soulscorching.html",
       "dependencies": []
     },
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR Plot Threads/Death of a Dragon.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 353,
-      "exportedPath": "5. old campaigns/1. MoR - Mists of Remnil/MoR Plot Threads/Death of a Dragon.html",
+    "Mytharia/History/The Planaclysm.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 580,
+      "exportedPath": "Mytharia/History/The Planaclysm.html",
       "dependencies": []
     },
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR Plot Threads/Expansion of The Dragon's Order.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 326,
-      "exportedPath": "5. old campaigns/1. MoR - Mists of Remnil/MoR Plot Threads/Expansion of The Dragon's Order.html",
+    "Mytharia/Organisations/The Crunch Crack Pirate Crew.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 797,
+      "exportedPath": "Mytharia/Organisations/The Crunch Crack Pirate Crew.html",
       "dependencies": []
     },
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR Plot Threads/Farwander's Devestation.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 337,
-      "exportedPath": "5. old campaigns/1. MoR - Mists of Remnil/MoR Plot Threads/Farwander's Devestation.html",
+    "Mytharia/Organisations/The Lustrous Mist.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 486,
+      "exportedPath": "Mytharia/Organisations/The Lustrous Mist.html",
       "dependencies": []
     },
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR Plot Threads/Foxes from the Stars.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 408,
-      "exportedPath": "5. old campaigns/1. MoR - Mists of Remnil/MoR Plot Threads/Foxes from the Stars.html",
+    "Mytharia/Organisations/The Saviours of Greenest.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 442,
+      "exportedPath": "Mytharia/Organisations/The Saviours of Greenest.html",
       "dependencies": []
     },
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR Plot Threads/Millicent's Disappearance.md": {
-      "modifiedTime": 1745528432843,
+    "Mytharia/Organisations/The Wayfarer's Pack.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 665,
+      "exportedPath": "Mytharia/Organisations/The Wayfarer's Pack.html",
+      "dependencies": []
+    },
+    "Mytharia/People/Adventurers - Mytharia/Brett Con.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 1133,
+      "exportedPath": "Mytharia/People/Adventurers - Mytharia/Brett Con.html",
+      "dependencies": []
+    },
+    "Mytharia/People/Adventurers - Mytharia/Coletta D. Coolington.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 1280,
+      "exportedPath": "Mytharia/People/Adventurers - Mytharia/Coletta D. Coolington.html",
+      "dependencies": []
+    },
+    "Mytharia/People/Adventurers - Mytharia/Karniss.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 1031,
+      "exportedPath": "Mytharia/People/Adventurers - Mytharia/Karniss.html",
+      "dependencies": []
+    },
+    "Mytharia/People/Adventurers - Mytharia/Lyre Thair'Monistadt.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 1025,
+      "exportedPath": "Mytharia/People/Adventurers - Mytharia/Lyre Thair'Monistadt.html",
+      "dependencies": []
+    },
+    "Mytharia/People/Adventurers - Mytharia/Thugedge The Hoodlum.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 1020,
+      "exportedPath": "Mytharia/People/Adventurers - Mytharia/Thugedge The Hoodlum.html",
+      "dependencies": []
+    },
+    "Mytharia/People/Adventurers - Mytharia/Tyrel, The Tarnisher.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 1083,
+      "exportedPath": "Mytharia/People/Adventurers - Mytharia/Tyrel, The Tarnisher.html",
+      "dependencies": []
+    },
+    "Mytharia/People/Adventurers - Mytharia/Yorick 'Yorkie' Jajijbol.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 936,
+      "exportedPath": "Mytharia/People/Adventurers - Mytharia/Yorick 'Yorkie' Jajijbol.html",
+      "dependencies": []
+    },
+    "Mytharia/People/Civilians - Mytharia/Nick Name.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 1517,
+      "exportedPath": "Mytharia/People/Civilians - Mytharia/Nick Name.html",
+      "dependencies": []
+    },
+    "Mytharia/People/Civilians - Mytharia/Woulfe Gaange Moneymancer.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 1035,
+      "exportedPath": "Mytharia/People/Civilians - Mytharia/Woulfe Gaange Moneymancer.html",
+      "dependencies": []
+    },
+    "Mytharia/People/Shopkeepers - Mytharia/Billbury.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 999,
+      "exportedPath": "Mytharia/People/Shopkeepers - Mytharia/Billbury.html",
+      "dependencies": []
+    },
+    "Mytharia/People/Shopkeepers - Mytharia/Catamari.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 1020,
+      "exportedPath": "Mytharia/People/Shopkeepers - Mytharia/Catamari.html",
+      "dependencies": []
+    },
+    "Mytharia/People/Shopkeepers - Mytharia/Lemon.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 1617,
+      "exportedPath": "Mytharia/People/Shopkeepers - Mytharia/Lemon.html",
+      "dependencies": []
+    },
+    "Mytharia/People/Shopkeepers - Mytharia/Scoop Dogg.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 1020,
+      "exportedPath": "Mytharia/People/Shopkeepers - Mytharia/Scoop Dogg.html",
+      "dependencies": []
+    },
+    "Mytharia/People/Dr. Boom.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 999,
+      "exportedPath": "Mytharia/People/Dr. Boom.html",
+      "dependencies": []
+    },
+    "Mytharia/People/Forsythia Mythralight.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 7331,
+      "exportedPath": "Mytharia/People/Forsythia Mythralight.html",
+      "dependencies": []
+    },
+    "Mytharia/People/Gwendolyn Mythalight.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 0,
+      "exportedPath": "Mytharia/People/Gwendolyn Mythalight.html",
+      "dependencies": []
+    },
+    "Mytharia/People/Rhodri Mythralight.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 1024,
+      "exportedPath": "Mytharia/People/Rhodri Mythralight.html",
+      "dependencies": []
+    },
+    "Mytharia/People/Robril Starsteel.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 0,
+      "exportedPath": "Mytharia/People/Robril Starsteel.html",
+      "dependencies": []
+    },
+    "Mytharia/People/Viktor Mythralight.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 0,
+      "exportedPath": "Mytharia/People/Viktor Mythralight.html",
+      "dependencies": []
+    },
+    "Mytharia/People/Warren Mythralight.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 0,
+      "exportedPath": "Mytharia/People/Warren Mythralight.html",
+      "dependencies": []
+    },
+    "Mytharia/Planets/Mytharia Planet/Goidina/Goldas/Chickpea Diner.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 0,
+      "exportedPath": "Mytharia/Planets/Mytharia Planet/Goidina/Goldas/Chickpea Diner.html",
+      "dependencies": []
+    },
+    "Mytharia/Planets/Mytharia Planet/Goidina/Goldas/Shop N' Hop.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 0,
+      "exportedPath": "Mytharia/Planets/Mytharia Planet/Goidina/Goldas/Shop N' Hop.html",
+      "dependencies": []
+    },
+    "Mytharia/Planets/Mytharia Planet/Goidina/Goldas/Sir Antoine A. Adventure's Adventuring Academy.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 702,
+      "exportedPath": "Mytharia/Planets/Mytharia Planet/Goidina/Goldas/Sir Antoine A. Adventure's Adventuring Academy.html",
+      "dependencies": []
+    },
+    "Mytharia/Planets/Mytharia Planet/Goidina/Coolsville.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 721,
+      "exportedPath": "Mytharia/Planets/Mytharia Planet/Goidina/Coolsville.html",
+      "dependencies": []
+    },
+    "Mytharia/Planets/Mytharia Planet/Goidina/Goidina.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 0,
+      "exportedPath": "Mytharia/Planets/Mytharia Planet/Goidina/Goidina.html",
+      "dependencies": []
+    },
+    "Mytharia/Planets/Mytharia Planet/Griedoria/Remnil/New Dougleton/New Dougleton.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 0,
+      "exportedPath": "Mytharia/Planets/Mytharia Planet/Griedoria/Remnil/New Dougleton/New Dougleton.html",
+      "dependencies": []
+    },
+    "Mytharia/Planets/Mytharia Planet/Griedoria/Remnil/Wingspan.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 0,
+      "exportedPath": "Mytharia/Planets/Mytharia Planet/Griedoria/Remnil/Wingspan.html",
+      "dependencies": []
+    },
+    "Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Drop it Like It's Cold.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 1069,
+      "exportedPath": "Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Drop it Like It's Cold.html",
+      "dependencies": []
+    },
+    "Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Gryton's Grill.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 540,
+      "exportedPath": "Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Gryton's Grill.html",
+      "dependencies": []
+    },
+    "Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Heaven's Door.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 1722,
+      "exportedPath": "Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Heaven's Door.html",
+      "dependencies": []
+    },
+    "Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Paw-In Shop.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 1251,
+      "exportedPath": "Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Paw-In Shop.html",
+      "dependencies": []
+    },
+    "Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Renexann.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 702,
+      "exportedPath": "Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Renexann.html",
+      "dependencies": []
+    },
+    "Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Web of Gems.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 0,
+      "exportedPath": "Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Web of Gems.html",
+      "dependencies": []
+    },
+    "Mytharia/Planets/Mytharia Planet/Rextaulia/Rextaulia.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 1714,
+      "exportedPath": "Mytharia/Planets/Mytharia Planet/Rextaulia/Rextaulia.html",
+      "dependencies": []
+    },
+    "Mytharia/Planets/Mytharia Planet/The Divergent Isles/Lazulain/Lazulain.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 822,
-      "exportedPath": "5. old campaigns/1. MoR - Mists of Remnil/MoR Plot Threads/Millicent's Disappearance.html",
+      "exportedPath": "Mytharia/Planets/Mytharia Planet/The Divergent Isles/Lazulain/Lazulain.html",
       "dependencies": []
     },
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR Relevant NPCs/Millicent of Frostont.md": {
-      "modifiedTime": 1745528432843,
+    "Mytharia/Planets/Mytharia Planet/The Divergent Isles/Ryukuma/Ryukuma Island.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 1083,
+      "exportedPath": "Mytharia/Planets/Mytharia Planet/The Divergent Isles/Ryukuma/Ryukuma Island.html",
+      "dependencies": []
+    },
+    "Mytharia/Planets/Mytharia Planet/The Divergent Isles/The Juno Isles/Yo-Yo shop.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 0,
-      "exportedPath": "5. old campaigns/1. MoR - Mists of Remnil/MoR Relevant NPCs/Millicent of Frostont.html",
+      "exportedPath": "Mytharia/Planets/Mytharia Planet/The Divergent Isles/The Juno Isles/Yo-Yo shop.html",
       "dependencies": []
     },
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR Session Notes/Session 1 - MoR.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 2469,
-      "exportedPath": "5. old campaigns/1. MoR - Mists of Remnil/MoR Session Notes/Session 1 - MoR.html",
+    "Mytharia/Planets/Mytharia Planet/The Divergent Isles/The Juno Isles.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 1578,
+      "exportedPath": "Mytharia/Planets/Mytharia Planet/The Divergent Isles/The Juno Isles.html",
       "dependencies": []
     },
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR Session Notes/Session 2 - MoR.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 57,
-      "exportedPath": "5. old campaigns/1. MoR - Mists of Remnil/MoR Session Notes/Session 2 - MoR.html",
+    "Mytharia/Planets/Mytharia Planet/Vortil/Remnil/Pious.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 836,
+      "exportedPath": "Mytharia/Planets/Mytharia Planet/Vortil/Remnil/Pious.html",
       "dependencies": []
     },
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR Session Notes/Session 3 - MoR.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 2541,
-      "exportedPath": "5. old campaigns/1. MoR - Mists of Remnil/MoR Session Notes/Session 3 - MoR.html",
+    "Mytharia/Planets/Mytharia Planet/Vortil/Rextaulia/Jewel Harbour.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 946,
+      "exportedPath": "Mytharia/Planets/Mytharia Planet/Vortil/Rextaulia/Jewel Harbour.html",
       "dependencies": []
     },
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR Session Notes/Session 4 - MoR.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 3506,
-      "exportedPath": "5. old campaigns/1. MoR - Mists of Remnil/MoR Session Notes/Session 4 - MoR.html",
-      "dependencies": []
-    },
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR Session Notes/Session 5 - MoR.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 3047,
-      "exportedPath": "5. old campaigns/1. MoR - Mists of Remnil/MoR Session Notes/Session 5 - MoR.html",
-      "dependencies": []
-    },
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR Session Notes/Session 6 - MoR.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 2342,
-      "exportedPath": "5. old campaigns/1. MoR - Mists of Remnil/MoR Session Notes/Session 6 - MoR.html",
-      "dependencies": []
-    },
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR Session Notes/Session 7 - MoR.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 2446,
-      "exportedPath": "5. old campaigns/1. MoR - Mists of Remnil/MoR Session Notes/Session 7 - MoR.html",
-      "dependencies": []
-    },
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR Session Notes/Session 8 - MoR.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 2617,
-      "exportedPath": "5. old campaigns/1. MoR - Mists of Remnil/MoR Session Notes/Session 8 - MoR.html",
-      "dependencies": []
-    },
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR Session Notes/Session 9 - MoR.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 3864,
-      "exportedPath": "5. old campaigns/1. MoR - Mists of Remnil/MoR Session Notes/Session 9 - MoR.html",
-      "dependencies": []
-    },
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR Session Notes/Session 10 - MoR.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 8794,
-      "exportedPath": "5. old campaigns/1. MoR - Mists of Remnil/MoR Session Notes/Session 10 - MoR.html",
-      "dependencies": []
-    },
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR Session Notes/Session 11 - MOR (FINAL).md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 8930,
-      "exportedPath": "5. old campaigns/1. MoR - Mists of Remnil/MoR Session Notes/Session 11 - MOR (FINAL).html",
-      "dependencies": []
-    },
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR The Party/Aries.md": {
-      "modifiedTime": 1745528432843,
+    "Mytharia/Planets/Mytharia Planet/Vortil/Rextaulia/Rextaulia.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 0,
-      "exportedPath": "5. old campaigns/1. MoR - Mists of Remnil/MoR The Party/Aries.html",
+      "exportedPath": "Mytharia/Planets/Mytharia Planet/Vortil/Rextaulia/Rextaulia.html",
       "dependencies": []
     },
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR The Party/BunBun Farwander.md": {
-      "modifiedTime": 1745528432843,
+    "Mytharia/Planets/Mytharia Planet/Vortil/The Greenest Empire/Greenest City/Greenest City.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 0,
-      "exportedPath": "5. old campaigns/1. MoR - Mists of Remnil/MoR The Party/BunBun Farwander.html",
+      "exportedPath": "Mytharia/Planets/Mytharia Planet/Vortil/The Greenest Empire/Greenest City/Greenest City.html",
       "dependencies": []
     },
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR The Party/Father Gucc.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1326,
-      "exportedPath": "5. old campaigns/1. MoR - Mists of Remnil/MoR The Party/Father Gucc.html",
-      "dependencies": []
-    },
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR The Party/Korryko of Resanthum.md": {
-      "modifiedTime": 1745528432843,
+    "Volteya/Fulmin/Fulmin.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 0,
-      "exportedPath": "5. old campaigns/1. MoR - Mists of Remnil/MoR The Party/Korryko of Resanthum.html",
+      "exportedPath": "Volteya/Fulmin/Fulmin.html",
       "dependencies": []
     },
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR The Party/Seth Poissoinne.md": {
-      "modifiedTime": 1745528432843,
+    "Volteya/Sparksville/Sparksville.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 0,
-      "exportedPath": "5. old campaigns/1. MoR - Mists of Remnil/MoR The Party/Seth Poissoinne.html",
+      "exportedPath": "Volteya/Sparksville/Sparksville.html",
       "dependencies": []
     },
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR The Party/Silas Mythralight.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1108,
-      "exportedPath": "5. old campaigns/1. MoR - Mists of Remnil/MoR The Party/Silas Mythralight.html",
+    "Volteya/Zappingham/Two Heels Diner.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 605,
+      "exportedPath": "Volteya/Zappingham/Two Heels Diner.html",
       "dependencies": []
     },
-    "5. old campaigns/1. MoR - Mists of Remnil/Mists of Remnil.md": {
-      "modifiedTime": 1745528432843,
+    "Volteya/Assier's Lair.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 1164,
+      "exportedPath": "Volteya/Assier's Lair.html",
+      "dependencies": []
+    },
+    "Volteya/The Thundercloud.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 702,
+      "exportedPath": "Volteya/The Thundercloud.html",
+      "dependencies": []
+    },
+    "Volteya/Volt Action.md": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 0,
-      "exportedPath": "5. old campaigns/1. MoR - Mists of Remnil/Mists of Remnil.html",
+      "exportedPath": "Volteya/Volt Action.html",
       "dependencies": []
     },
-    "5. old campaigns/1. MoR - Mists of Remnil/MoR Outline.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 621,
-      "exportedPath": "5. old campaigns/1. MoR - Mists of Remnil/MoR Outline.html",
+    "Volteya/Volteya Overview.md": {
+      "modifiedTime": 1745534179973,
+      "sourceSize": 2109,
+      "exportedPath": "Volteya/Volteya Overview.html",
       "dependencies": []
     },
-    "Homebrew Rules/Area Wild Magic table.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 39605,
-      "exportedPath": "Homebrew Rules/Area Wild Magic table.html",
-      "dependencies": []
-    },
-    "Homebrew Rules/Caster and Target Wild Magic table.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 52638,
-      "exportedPath": "Homebrew Rules/Caster and Target Wild Magic table.html",
-      "dependencies": []
-    },
-    "Homebrew Rules/Caster or Target Wild Magic table.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 75530,
-      "exportedPath": "Homebrew Rules/Caster or Target Wild Magic table.html",
-      "dependencies": []
-    },
-    "Homebrew Rules/Harvesting tables.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 5625,
-      "exportedPath": "Homebrew Rules/Harvesting tables.html",
-      "dependencies": []
-    },
-    "Homebrew Rules/Spell Variation Wild Magic table.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 49186,
-      "exportedPath": "Homebrew Rules/Spell Variation Wild Magic table.html",
-      "dependencies": []
-    },
-    "Homebrew Rules/Wild Magic.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1744,
-      "exportedPath": "Homebrew Rules/Wild Magic.html",
-      "dependencies": []
-    },
-    "Images/Agony darkness casket vale.png": {
-      "modifiedTime": 1745528432843,
+    "zImages/Agony darkness casket vale.png": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 704873,
-      "exportedPath": "Images/Agony darkness casket vale.png",
+      "exportedPath": "zImages/Agony darkness casket vale.png",
       "dependencies": []
     },
-    "Images/Arthur_Swifteye.png": {
-      "modifiedTime": 1745528432843,
+    "zImages/Arthur_Swifteye.png": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 1136051,
-      "exportedPath": "Images/Arthur_Swifteye.png",
+      "exportedPath": "zImages/Arthur_Swifteye.png",
       "dependencies": []
     },
-    "Images/Batamagus.png": {
-      "modifiedTime": 1745528432843,
+    "zImages/Batamagus.png": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 16500,
-      "exportedPath": "Images/Batamagus.png",
+      "exportedPath": "zImages/Batamagus.png",
       "dependencies": []
     },
-    "Images/Begacahkos Emperor.jpg": {
-      "modifiedTime": 1745528432843,
+    "zImages/Begacahkos Emperor.jpg": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 240286,
-      "exportedPath": "Images/Begacahkos Emperor.jpg",
+      "exportedPath": "zImages/Begacahkos Emperor.jpg",
       "dependencies": []
     },
-    "Images/cascade.png": {
-      "modifiedTime": 1745528432843,
+    "zImages/cascade.png": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 1409287,
-      "exportedPath": "Images/cascade.png",
+      "exportedPath": "zImages/cascade.png",
       "dependencies": []
     },
-    "Images/Coolio Coolington Transparent.png": {
-      "modifiedTime": 1745528432843,
+    "zImages/Coolio Coolington Transparent.png": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 142150,
-      "exportedPath": "Images/Coolio Coolington Transparent.png",
+      "exportedPath": "zImages/Coolio Coolington Transparent.png",
       "dependencies": []
     },
-    "Images/Cresie in the shadows.jpg": {
-      "modifiedTime": 1745528432843,
+    "zImages/Cresie in the shadows.jpg": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 337721,
-      "exportedPath": "Images/Cresie in the shadows.jpg",
+      "exportedPath": "zImages/Cresie in the shadows.jpg",
       "dependencies": []
     },
-    "Images/Cresie's breakdown.jpg": {
-      "modifiedTime": 1745528432843,
+    "zImages/Cresie's breakdown.jpg": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 241235,
-      "exportedPath": "Images/Cresie's breakdown.jpg",
+      "exportedPath": "zImages/Cresie's breakdown.jpg",
       "dependencies": []
     },
-    "Images/Florian.jpg": {
-      "modifiedTime": 1745528432843,
+    "zImages/Florian.jpg": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 120739,
-      "exportedPath": "Images/Florian.jpg",
+      "exportedPath": "zImages/Florian.jpg",
       "dependencies": []
     },
-    "Images/Forn Star family tree.png": {
-      "modifiedTime": 1745528432843,
+    "zImages/Forn Star family tree.png": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 1780035,
-      "exportedPath": "Images/Forn Star family tree.png",
+      "exportedPath": "zImages/Forn Star family tree.png",
       "dependencies": []
     },
-    "Images/Forsythia Portrait.png": {
-      "modifiedTime": 1745528432843,
+    "zImages/Forsythia Portrait.png": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 1143334,
-      "exportedPath": "Images/Forsythia Portrait.png",
+      "exportedPath": "zImages/Forsythia Portrait.png",
       "dependencies": []
     },
-    "Images/Goojoo Sootaroo.png": {
-      "modifiedTime": 1745528432843,
+    "zImages/Goojoo Sootaroo.png": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 155085,
-      "exportedPath": "Images/Goojoo Sootaroo.png",
+      "exportedPath": "zImages/Goojoo Sootaroo.png",
       "dependencies": []
     },
-    "Images/Lemon Portrait.png": {
-      "modifiedTime": 1745528432843,
+    "zImages/Lemon Portrait.png": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 1383103,
-      "exportedPath": "Images/Lemon Portrait.png",
+      "exportedPath": "zImages/Lemon Portrait.png",
       "dependencies": []
     },
-    "Images/Niles.jpg": {
-      "modifiedTime": 1745528432843,
+    "zImages/Niles.jpg": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 264506,
-      "exportedPath": "Images/Niles.jpg",
+      "exportedPath": "zImages/Niles.jpg",
       "dependencies": []
     },
-    "Images/Oukruh Cool Stance.png": {
-      "modifiedTime": 1745528432843,
+    "zImages/Oukruh Cool Stance.png": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 7111,
-      "exportedPath": "Images/Oukruh Cool Stance.png",
+      "exportedPath": "zImages/Oukruh Cool Stance.png",
       "dependencies": []
     },
-    "Images/Oukruh in action.png": {
-      "modifiedTime": 1745528432843,
+    "zImages/Oukruh in action.png": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 74147,
-      "exportedPath": "Images/Oukruh in action.png",
+      "exportedPath": "zImages/Oukruh in action.png",
       "dependencies": []
     },
-    "Images/Oukruh Leaps into Flight.png": {
-      "modifiedTime": 1745528432843,
+    "zImages/Oukruh Leaps into Flight.png": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 10096,
-      "exportedPath": "Images/Oukruh Leaps into Flight.png",
+      "exportedPath": "zImages/Oukruh Leaps into Flight.png",
       "dependencies": []
     },
-    "Images/Oukruh turned away.png": {
-      "modifiedTime": 1745528432843,
+    "zImages/Oukruh turned away.png": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 8846,
-      "exportedPath": "Images/Oukruh turned away.png",
+      "exportedPath": "zImages/Oukruh turned away.png",
       "dependencies": []
     },
-    "Images/Pasted image 20250223011632.png": {
-      "modifiedTime": 1745528432843,
+    "zImages/Pasted image 20250223011632.png": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 53037,
-      "exportedPath": "Images/Pasted image 20250223011632.png",
+      "exportedPath": "zImages/Pasted image 20250223011632.png",
       "dependencies": []
     },
-    "Images/Stylised Cresie.jpg": {
-      "modifiedTime": 1745528432843,
+    "zImages/Stylised Cresie.jpg": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 249667,
-      "exportedPath": "Images/Stylised Cresie.jpg",
+      "exportedPath": "zImages/Stylised Cresie.jpg",
       "dependencies": []
     },
-    "Images/The Psionic Sunburst.png": {
-      "modifiedTime": 1745528432843,
+    "zImages/The Psionic Sunburst.png": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 5570,
-      "exportedPath": "Images/The Psionic Sunburst.png",
+      "exportedPath": "zImages/The Psionic Sunburst.png",
       "dependencies": []
     },
-    "Images/Trading Tables from Heliana.png": {
-      "modifiedTime": 1745528432843,
+    "zImages/Trading Tables from Heliana.png": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 159176,
-      "exportedPath": "Images/Trading Tables from Heliana.png",
+      "exportedPath": "zImages/Trading Tables from Heliana.png",
       "dependencies": []
     },
-    "Images/Wyenne portrait.png": {
-      "modifiedTime": 1745528432843,
+    "zImages/Wyenne portrait.png": {
+      "modifiedTime": 1745534179973,
       "sourceSize": 43415,
-      "exportedPath": "Images/Wyenne portrait.png",
-      "dependencies": []
-    },
-    "Statblocks/Ink Devil Statblock (MCDM).md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 2343,
-      "exportedPath": "Statblocks/Ink Devil Statblock (MCDM).html",
-      "dependencies": []
-    },
-    "Statblocks/Krampus' Sack.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 973,
-      "exportedPath": "Statblocks/Krampus' Sack.html",
-      "dependencies": []
-    },
-    "Templates/Apotheosis Template.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 859,
-      "exportedPath": "Templates/Apotheosis Template.html",
-      "dependencies": []
-    },
-    "Templates/Creature Statblock template.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 3797,
-      "exportedPath": "Templates/Creature Statblock template.html",
-      "dependencies": []
-    },
-    "Templates/Creature Template.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 741,
-      "exportedPath": "Templates/Creature Template.html",
-      "dependencies": []
-    },
-    "Templates/Faction template.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 464,
-      "exportedPath": "Templates/Faction template.html",
-      "dependencies": []
-    },
-    "Templates/God Template.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 681,
-      "exportedPath": "Templates/God Template.html",
-      "dependencies": []
-    },
-    "Templates/Item Template.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 405,
-      "exportedPath": "Templates/Item Template.html",
-      "dependencies": []
-    },
-    "Templates/Location Template.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 727,
-      "exportedPath": "Templates/Location Template.html",
-      "dependencies": []
-    },
-    "Templates/NPC Template.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1045,
-      "exportedPath": "Templates/NPC Template.html",
-      "dependencies": []
-    },
-    "Templates/Player Character template.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 1052,
-      "exportedPath": "Templates/Player Character template.html",
-      "dependencies": []
-    },
-    "Templates/Plot Thread template.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 253,
-      "exportedPath": "Templates/Plot Thread template.html",
-      "dependencies": []
-    },
-    "Templates/Sapient Race Template.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 673,
-      "exportedPath": "Templates/Sapient Race Template.html",
-      "dependencies": []
-    },
-    "Templates/Session Template.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 145,
-      "exportedPath": "Templates/Session Template.html",
-      "dependencies": []
-    },
-    "2025-03-24.md": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 0,
-      "exportedPath": "2025-03-24.html",
-      "dependencies": []
-    },
-    "mythariadictionary.csv": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 53,
-      "exportedPath": "mythariadictionary.csv",
-      "dependencies": []
-    },
-    "publish.css": {
-      "modifiedTime": 1745528432843,
-      "sourceSize": 2181,
-      "exportedPath": "publish.css",
+      "exportedPath": "zImages/Wyenne portrait.png",
       "dependencies": []
     },
     "Welcome.md": {
-      "modifiedTime": 1745528432843,
+      "modifiedTime": 1745534179973,
       "sourceSize": 203,
       "exportedPath": "Welcome.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1745528432843,
+      "modifiedTime": 1745534179973,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1745528432843,
+      "modifiedTime": 1745534179973,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1745528432843,
+      "modifiedTime": 1745534179973,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1745528432843,
+      "modifiedTime": 1745534179973,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1745528432843,
+      "modifiedTime": 1745534179973,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1745528432843,
+      "modifiedTime": 1745534179973,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1745528432843,
+      "modifiedTime": 1745534179973,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1745528432843,
+      "modifiedTime": 1745534179973,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1745528432843,
+      "modifiedTime": 1745534179973,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1745528432843,
+      "modifiedTime": 1745534179973,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1745528432843,
+      "modifiedTime": 1745534179973,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1745528432843,
+      "modifiedTime": 1745534179973,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1745528432843,
+      "modifiedTime": 1745534179973,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1745528432843,
+      "modifiedTime": 1745534179973,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
