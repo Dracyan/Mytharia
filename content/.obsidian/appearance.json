@@ -6,5 +6,8 @@
     "TabsInObsidian",
     "test"
   ],
-  "cssTheme": "ITS Theme"
+  "cssTheme": "ITS Theme",
+  "textFontFamily": "Lucida Console",
+  "interfaceFontFamily": "Homestuck,Cambria",
+  "monospaceFontFamily": "Lucida Console"
 }

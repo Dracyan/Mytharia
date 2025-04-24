@@ -1,6 +1,6 @@
 {
   "vaultName": "content",
-  "lastExport": 1745534179973,
+  "lastExport": 1745535090616,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon check-color check-bg",
   "useCustomHeadContent": false,
@@ -49,7 +49,6 @@
     "Mytharia/Organisations/The Wayfarer's Pack.md",
     "Mytharia/People/Adventurers - Mytharia/Brett Con.md",
     "Mytharia/People/Adventurers - Mytharia/Coletta D. Coolington.md",
-    "Mytharia/People/Adventurers - Mytharia/Karniss.md",
     "Mytharia/People/Adventurers - Mytharia/Lyre Thair'Monistadt.md",
     "Mytharia/People/Adventurers - Mytharia/Thugedge The Hoodlum.md",
     "Mytharia/People/Adventurers - Mytharia/Tyrel, The Tarnisher.md",
@@ -62,11 +61,6 @@
     "Mytharia/People/Shopkeepers - Mytharia/Scoop Dogg.md",
     "Mytharia/People/Dr. Boom.md",
     "Mytharia/People/Forsythia Mythralight.md",
-    "Mytharia/People/Gwendolyn Mythalight.md",
-    "Mytharia/People/Rhodri Mythralight.md",
-    "Mytharia/People/Robril Starsteel.md",
-    "Mytharia/People/Viktor Mythralight.md",
-    "Mytharia/People/Warren Mythralight.md",
     "Mytharia/Planets/Mytharia Planet/Goidina/Goldas/Chickpea Diner.md",
     "Mytharia/Planets/Mytharia Planet/Goidina/Goldas/Shop N' Hop.md",
     "Mytharia/Planets/Mytharia Planet/Goidina/Goldas/Sir Antoine A. Adventure's Adventuring Academy.md",
@@ -89,36 +83,7 @@
     "Mytharia/Planets/Mytharia Planet/Vortil/Rextaulia/Jewel Harbour.md",
     "Mytharia/Planets/Mytharia Planet/Vortil/Rextaulia/Rextaulia.md",
     "Mytharia/Planets/Mytharia Planet/Vortil/The Greenest Empire/Greenest City/Greenest City.md",
-    "Volteya/Fulmin/Fulmin.md",
-    "Volteya/Sparksville/Sparksville.md",
-    "Volteya/Zappingham/Two Heels Diner.md",
-    "Volteya/Assier's Lair.md",
-    "Volteya/The Thundercloud.md",
-    "Volteya/Volt Action.md",
     "Volteya/Volteya Overview.md",
-    "zImages/Agony darkness casket vale.png",
-    "zImages/Arthur_Swifteye.png",
-    "zImages/Batamagus.png",
-    "zImages/Begacahkos Emperor.jpg",
-    "zImages/cascade.png",
-    "zImages/Coolio Coolington Transparent.png",
-    "zImages/Cresie in the shadows.jpg",
-    "zImages/Cresie's breakdown.jpg",
-    "zImages/Florian.jpg",
-    "zImages/Forn Star family tree.png",
-    "zImages/Forsythia Portrait.png",
-    "zImages/Goojoo Sootaroo.png",
-    "zImages/Lemon Portrait.png",
-    "zImages/Niles.jpg",
-    "zImages/Oukruh Cool Stance.png",
-    "zImages/Oukruh in action.png",
-    "zImages/Oukruh Leaps into Flight.png",
-    "zImages/Oukruh turned away.png",
-    "zImages/Pasted image 20250223011632.png",
-    "zImages/Stylised Cresie.jpg",
-    "zImages/The Psionic Sunburst.png",
-    "zImages/Trading Tables from Heliana.png",
-    "zImages/Wyenne portrait.png",
     "Welcome.md",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -153,769 +118,559 @@
   ],
   "fileInfo": {
     "Cross Planar Lore/Creatures/Heretical Badass Dragon.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 0,
       "exportedPath": "Cross Planar Lore/Creatures/Heretical Badass Dragon.html",
       "dependencies": []
     },
     "Cross Planar Lore/Creatures/Ink Devil.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 629,
       "exportedPath": "Cross Planar Lore/Creatures/Ink Devil.html",
       "dependencies": []
     },
     "Cross Planar Lore/Creatures/Malevolent Spirits.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 1607,
       "exportedPath": "Cross Planar Lore/Creatures/Malevolent Spirits.html",
       "dependencies": []
     },
     "Cross Planar Lore/Creatures/Malphas.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 1343,
       "exportedPath": "Cross Planar Lore/Creatures/Malphas.html",
       "dependencies": []
     },
     "Cross Planar Lore/Creatures/Slaughter Demon.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 0,
       "exportedPath": "Cross Planar Lore/Creatures/Slaughter Demon.html",
       "dependencies": []
     },
     "Cross Planar Lore/Items/Titan Blood.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 0,
       "exportedPath": "Cross Planar Lore/Items/Titan Blood.html",
       "dependencies": []
     },
     "Cross Planar Lore/Professions/Pirate.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 0,
       "exportedPath": "Cross Planar Lore/Professions/Pirate.html",
       "dependencies": []
     },
     "Cross Planar Lore/Professions/Superhero.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 0,
       "exportedPath": "Cross Planar Lore/Professions/Superhero.html",
       "dependencies": []
     },
     "Cross Planar Lore/Professions/Wizard.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 123,
       "exportedPath": "Cross Planar Lore/Professions/Wizard.html",
       "dependencies": []
     },
     "Cross Planar Lore/Sapient Species/B-Head.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 470,
       "exportedPath": "Cross Planar Lore/Sapient Species/B-Head.html",
       "dependencies": []
     },
     "Cross Planar Lore/Sapient Species/Bègacahkos.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 4329,
       "exportedPath": "Cross Planar Lore/Sapient Species/Bègacahkos.html",
       "dependencies": []
     },
     "Cross Planar Lore/Sapient Species/Birdfolk.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 772,
       "exportedPath": "Cross Planar Lore/Sapient Species/Birdfolk.html",
       "dependencies": []
     },
     "Cross Planar Lore/Sapient Species/Golem.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 654,
       "exportedPath": "Cross Planar Lore/Sapient Species/Golem.html",
       "dependencies": []
     },
     "Cross Planar Lore/Sapient Species/Human.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 0,
       "exportedPath": "Cross Planar Lore/Sapient Species/Human.html",
       "dependencies": []
     },
     "Cross Planar Lore/Sapient Species/Saiyan.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 1453,
       "exportedPath": "Cross Planar Lore/Sapient Species/Saiyan.html",
       "dependencies": []
     },
     "Cross Planar Lore/Sapient Species/Troll.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 3024,
       "exportedPath": "Cross Planar Lore/Sapient Species/Troll.html",
       "dependencies": []
     },
     "Cross Planar Lore/Sapient Species/Vampire.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 629,
       "exportedPath": "Cross Planar Lore/Sapient Species/Vampire.html",
       "dependencies": []
     },
     "Cross Planar Lore/Sapient Species/Vulpalf.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 1819,
       "exportedPath": "Cross Planar Lore/Sapient Species/Vulpalf.html",
       "dependencies": []
     },
     "Cross Planar Lore/Worship/Dead Gods/The Man With No Name.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 6060,
       "exportedPath": "Cross Planar Lore/Worship/Dead Gods/The Man With No Name.html",
       "dependencies": []
     },
     "Cross Planar Lore/Worship/Gods/The Curate of The Occult.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 0,
       "exportedPath": "Cross Planar Lore/Worship/Gods/The Curate of The Occult.html",
       "dependencies": []
     },
     "Cross Planar Lore/Worship/Gods/The Daydreamer.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 23,
       "exportedPath": "Cross Planar Lore/Worship/Gods/The Daydreamer.html",
       "dependencies": []
     },
     "Cross Planar Lore/Worship/Gods/The Dear Leader.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 0,
       "exportedPath": "Cross Planar Lore/Worship/Gods/The Dear Leader.html",
       "dependencies": []
     },
     "Cross Planar Lore/Worship/Gods/The Ether Crafter.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 0,
       "exportedPath": "Cross Planar Lore/Worship/Gods/The Ether Crafter.html",
       "dependencies": []
     },
     "Cross Planar Lore/Worship/Gods/The False Sufferer.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 0,
       "exportedPath": "Cross Planar Lore/Worship/Gods/The False Sufferer.html",
       "dependencies": []
     },
     "Cross Planar Lore/Worship/Gods/The Golden Phoenix.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 0,
       "exportedPath": "Cross Planar Lore/Worship/Gods/The Golden Phoenix.html",
       "dependencies": []
     },
     "Cross Planar Lore/Worship/Gods/The Hearthmother.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 0,
       "exportedPath": "Cross Planar Lore/Worship/Gods/The Hearthmother.html",
       "dependencies": []
     },
     "Cross Planar Lore/Worship/Gods/The Lady of Arcana.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 0,
       "exportedPath": "Cross Planar Lore/Worship/Gods/The Lady of Arcana.html",
       "dependencies": []
     },
     "Cross Planar Lore/Worship/Gods/The Master of Luck.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 0,
       "exportedPath": "Cross Planar Lore/Worship/Gods/The Master of Luck.html",
       "dependencies": []
     },
     "Cross Planar Lore/Worship/Gods/The Muffin Lord.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 0,
       "exportedPath": "Cross Planar Lore/Worship/Gods/The Muffin Lord.html",
       "dependencies": []
     },
     "Cross Planar Lore/Worship/Gods/The Shadowhunter.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 0,
       "exportedPath": "Cross Planar Lore/Worship/Gods/The Shadowhunter.html",
       "dependencies": []
     },
     "Cross Planar Lore/Worship/Gods/The Time Keeper.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 0,
       "exportedPath": "Cross Planar Lore/Worship/Gods/The Time Keeper.html",
       "dependencies": []
     },
     "Cross Planar Lore/Worship/Gods/The Woman of Heart.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 0,
       "exportedPath": "Cross Planar Lore/Worship/Gods/The Woman of Heart.html",
       "dependencies": []
     },
     "Cross Planar Lore/Astrology.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 9027,
       "exportedPath": "Cross Planar Lore/Astrology.html",
       "dependencies": []
     },
     "Cross Planar Lore/Lodestar.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 3643,
       "exportedPath": "Cross Planar Lore/Lodestar.html",
       "dependencies": []
     },
     "Cross Planar Lore/Pharos.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 1620,
       "exportedPath": "Cross Planar Lore/Pharos.html",
       "dependencies": []
     },
     "Cross Planar Lore/Soulscorching.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 691,
       "exportedPath": "Cross Planar Lore/Soulscorching.html",
       "dependencies": []
     },
     "Mytharia/History/The Planaclysm.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 580,
       "exportedPath": "Mytharia/History/The Planaclysm.html",
       "dependencies": []
     },
     "Mytharia/Organisations/The Crunch Crack Pirate Crew.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 797,
       "exportedPath": "Mytharia/Organisations/The Crunch Crack Pirate Crew.html",
       "dependencies": []
     },
     "Mytharia/Organisations/The Lustrous Mist.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 486,
       "exportedPath": "Mytharia/Organisations/The Lustrous Mist.html",
       "dependencies": []
     },
     "Mytharia/Organisations/The Saviours of Greenest.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 442,
       "exportedPath": "Mytharia/Organisations/The Saviours of Greenest.html",
       "dependencies": []
     },
     "Mytharia/Organisations/The Wayfarer's Pack.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 665,
       "exportedPath": "Mytharia/Organisations/The Wayfarer's Pack.html",
       "dependencies": []
     },
     "Mytharia/People/Adventurers - Mytharia/Brett Con.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 1133,
       "exportedPath": "Mytharia/People/Adventurers - Mytharia/Brett Con.html",
       "dependencies": []
     },
     "Mytharia/People/Adventurers - Mytharia/Coletta D. Coolington.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 1280,
       "exportedPath": "Mytharia/People/Adventurers - Mytharia/Coletta D. Coolington.html",
       "dependencies": []
     },
-    "Mytharia/People/Adventurers - Mytharia/Karniss.md": {
-      "modifiedTime": 1745534179973,
-      "sourceSize": 1031,
-      "exportedPath": "Mytharia/People/Adventurers - Mytharia/Karniss.html",
-      "dependencies": []
-    },
     "Mytharia/People/Adventurers - Mytharia/Lyre Thair'Monistadt.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 1025,
       "exportedPath": "Mytharia/People/Adventurers - Mytharia/Lyre Thair'Monistadt.html",
       "dependencies": []
     },
     "Mytharia/People/Adventurers - Mytharia/Thugedge The Hoodlum.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 1020,
       "exportedPath": "Mytharia/People/Adventurers - Mytharia/Thugedge The Hoodlum.html",
       "dependencies": []
     },
     "Mytharia/People/Adventurers - Mytharia/Tyrel, The Tarnisher.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 1083,
       "exportedPath": "Mytharia/People/Adventurers - Mytharia/Tyrel, The Tarnisher.html",
       "dependencies": []
     },
     "Mytharia/People/Adventurers - Mytharia/Yorick 'Yorkie' Jajijbol.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 936,
       "exportedPath": "Mytharia/People/Adventurers - Mytharia/Yorick 'Yorkie' Jajijbol.html",
       "dependencies": []
     },
     "Mytharia/People/Civilians - Mytharia/Nick Name.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 1517,
       "exportedPath": "Mytharia/People/Civilians - Mytharia/Nick Name.html",
       "dependencies": []
     },
     "Mytharia/People/Civilians - Mytharia/Woulfe Gaange Moneymancer.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 1035,
       "exportedPath": "Mytharia/People/Civilians - Mytharia/Woulfe Gaange Moneymancer.html",
       "dependencies": []
     },
     "Mytharia/People/Shopkeepers - Mytharia/Billbury.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 999,
       "exportedPath": "Mytharia/People/Shopkeepers - Mytharia/Billbury.html",
       "dependencies": []
     },
     "Mytharia/People/Shopkeepers - Mytharia/Catamari.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 1020,
       "exportedPath": "Mytharia/People/Shopkeepers - Mytharia/Catamari.html",
       "dependencies": []
     },
     "Mytharia/People/Shopkeepers - Mytharia/Lemon.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 1617,
       "exportedPath": "Mytharia/People/Shopkeepers - Mytharia/Lemon.html",
       "dependencies": []
     },
     "Mytharia/People/Shopkeepers - Mytharia/Scoop Dogg.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 1020,
       "exportedPath": "Mytharia/People/Shopkeepers - Mytharia/Scoop Dogg.html",
       "dependencies": []
     },
     "Mytharia/People/Dr. Boom.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 999,
       "exportedPath": "Mytharia/People/Dr. Boom.html",
       "dependencies": []
     },
     "Mytharia/People/Forsythia Mythralight.md": {
-      "modifiedTime": 1745534179973,
-      "sourceSize": 7331,
+      "modifiedTime": 1745535090616,
+      "sourceSize": 7336,
       "exportedPath": "Mytharia/People/Forsythia Mythralight.html",
       "dependencies": []
     },
-    "Mytharia/People/Gwendolyn Mythalight.md": {
-      "modifiedTime": 1745534179973,
-      "sourceSize": 0,
-      "exportedPath": "Mytharia/People/Gwendolyn Mythalight.html",
-      "dependencies": []
-    },
-    "Mytharia/People/Rhodri Mythralight.md": {
-      "modifiedTime": 1745534179973,
-      "sourceSize": 1024,
-      "exportedPath": "Mytharia/People/Rhodri Mythralight.html",
-      "dependencies": []
-    },
-    "Mytharia/People/Robril Starsteel.md": {
-      "modifiedTime": 1745534179973,
-      "sourceSize": 0,
-      "exportedPath": "Mytharia/People/Robril Starsteel.html",
-      "dependencies": []
-    },
-    "Mytharia/People/Viktor Mythralight.md": {
-      "modifiedTime": 1745534179973,
-      "sourceSize": 0,
-      "exportedPath": "Mytharia/People/Viktor Mythralight.html",
-      "dependencies": []
-    },
-    "Mytharia/People/Warren Mythralight.md": {
-      "modifiedTime": 1745534179973,
-      "sourceSize": 0,
-      "exportedPath": "Mytharia/People/Warren Mythralight.html",
-      "dependencies": []
-    },
     "Mytharia/Planets/Mytharia Planet/Goidina/Goldas/Chickpea Diner.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 0,
       "exportedPath": "Mytharia/Planets/Mytharia Planet/Goidina/Goldas/Chickpea Diner.html",
       "dependencies": []
     },
     "Mytharia/Planets/Mytharia Planet/Goidina/Goldas/Shop N' Hop.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 0,
       "exportedPath": "Mytharia/Planets/Mytharia Planet/Goidina/Goldas/Shop N' Hop.html",
       "dependencies": []
     },
     "Mytharia/Planets/Mytharia Planet/Goidina/Goldas/Sir Antoine A. Adventure's Adventuring Academy.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 702,
       "exportedPath": "Mytharia/Planets/Mytharia Planet/Goidina/Goldas/Sir Antoine A. Adventure's Adventuring Academy.html",
       "dependencies": []
     },
     "Mytharia/Planets/Mytharia Planet/Goidina/Coolsville.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 721,
       "exportedPath": "Mytharia/Planets/Mytharia Planet/Goidina/Coolsville.html",
       "dependencies": []
     },
     "Mytharia/Planets/Mytharia Planet/Goidina/Goidina.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 0,
       "exportedPath": "Mytharia/Planets/Mytharia Planet/Goidina/Goidina.html",
       "dependencies": []
     },
     "Mytharia/Planets/Mytharia Planet/Griedoria/Remnil/New Dougleton/New Dougleton.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 0,
       "exportedPath": "Mytharia/Planets/Mytharia Planet/Griedoria/Remnil/New Dougleton/New Dougleton.html",
       "dependencies": []
     },
     "Mytharia/Planets/Mytharia Planet/Griedoria/Remnil/Wingspan.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 0,
       "exportedPath": "Mytharia/Planets/Mytharia Planet/Griedoria/Remnil/Wingspan.html",
       "dependencies": []
     },
     "Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Drop it Like It's Cold.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 1069,
       "exportedPath": "Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Drop it Like It's Cold.html",
       "dependencies": []
     },
     "Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Gryton's Grill.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 540,
       "exportedPath": "Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Gryton's Grill.html",
       "dependencies": []
     },
     "Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Heaven's Door.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 1722,
       "exportedPath": "Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Heaven's Door.html",
       "dependencies": []
     },
     "Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Paw-In Shop.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 1251,
       "exportedPath": "Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Paw-In Shop.html",
       "dependencies": []
     },
     "Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Renexann.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 702,
       "exportedPath": "Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Renexann.html",
       "dependencies": []
     },
     "Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Web of Gems.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 0,
       "exportedPath": "Mytharia/Planets/Mytharia Planet/Rextaulia/Renexann/Web of Gems.html",
       "dependencies": []
     },
     "Mytharia/Planets/Mytharia Planet/Rextaulia/Rextaulia.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 1714,
       "exportedPath": "Mytharia/Planets/Mytharia Planet/Rextaulia/Rextaulia.html",
       "dependencies": []
     },
     "Mytharia/Planets/Mytharia Planet/The Divergent Isles/Lazulain/Lazulain.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 822,
       "exportedPath": "Mytharia/Planets/Mytharia Planet/The Divergent Isles/Lazulain/Lazulain.html",
       "dependencies": []
     },
     "Mytharia/Planets/Mytharia Planet/The Divergent Isles/Ryukuma/Ryukuma Island.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 1083,
       "exportedPath": "Mytharia/Planets/Mytharia Planet/The Divergent Isles/Ryukuma/Ryukuma Island.html",
       "dependencies": []
     },
     "Mytharia/Planets/Mytharia Planet/The Divergent Isles/The Juno Isles/Yo-Yo shop.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 0,
       "exportedPath": "Mytharia/Planets/Mytharia Planet/The Divergent Isles/The Juno Isles/Yo-Yo shop.html",
       "dependencies": []
     },
     "Mytharia/Planets/Mytharia Planet/The Divergent Isles/The Juno Isles.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 1578,
       "exportedPath": "Mytharia/Planets/Mytharia Planet/The Divergent Isles/The Juno Isles.html",
       "dependencies": []
     },
     "Mytharia/Planets/Mytharia Planet/Vortil/Remnil/Pious.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 836,
       "exportedPath": "Mytharia/Planets/Mytharia Planet/Vortil/Remnil/Pious.html",
       "dependencies": []
     },
     "Mytharia/Planets/Mytharia Planet/Vortil/Rextaulia/Jewel Harbour.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 946,
       "exportedPath": "Mytharia/Planets/Mytharia Planet/Vortil/Rextaulia/Jewel Harbour.html",
       "dependencies": []
     },
     "Mytharia/Planets/Mytharia Planet/Vortil/Rextaulia/Rextaulia.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 0,
       "exportedPath": "Mytharia/Planets/Mytharia Planet/Vortil/Rextaulia/Rextaulia.html",
       "dependencies": []
     },
     "Mytharia/Planets/Mytharia Planet/Vortil/The Greenest Empire/Greenest City/Greenest City.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 0,
       "exportedPath": "Mytharia/Planets/Mytharia Planet/Vortil/The Greenest Empire/Greenest City/Greenest City.html",
       "dependencies": []
     },
-    "Volteya/Fulmin/Fulmin.md": {
-      "modifiedTime": 1745534179973,
-      "sourceSize": 0,
-      "exportedPath": "Volteya/Fulmin/Fulmin.html",
-      "dependencies": []
-    },
-    "Volteya/Sparksville/Sparksville.md": {
-      "modifiedTime": 1745534179973,
-      "sourceSize": 0,
-      "exportedPath": "Volteya/Sparksville/Sparksville.html",
-      "dependencies": []
-    },
-    "Volteya/Zappingham/Two Heels Diner.md": {
-      "modifiedTime": 1745534179973,
-      "sourceSize": 605,
-      "exportedPath": "Volteya/Zappingham/Two Heels Diner.html",
-      "dependencies": []
-    },
-    "Volteya/Assier's Lair.md": {
-      "modifiedTime": 1745534179973,
-      "sourceSize": 1164,
-      "exportedPath": "Volteya/Assier's Lair.html",
-      "dependencies": []
-    },
-    "Volteya/The Thundercloud.md": {
-      "modifiedTime": 1745534179973,
-      "sourceSize": 702,
-      "exportedPath": "Volteya/The Thundercloud.html",
-      "dependencies": []
-    },
-    "Volteya/Volt Action.md": {
-      "modifiedTime": 1745534179973,
-      "sourceSize": 0,
-      "exportedPath": "Volteya/Volt Action.html",
-      "dependencies": []
-    },
     "Volteya/Volteya Overview.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 2109,
       "exportedPath": "Volteya/Volteya Overview.html",
       "dependencies": []
     },
-    "zImages/Agony darkness casket vale.png": {
-      "modifiedTime": 1745534179973,
-      "sourceSize": 704873,
-      "exportedPath": "zImages/Agony darkness casket vale.png",
-      "dependencies": []
-    },
-    "zImages/Arthur_Swifteye.png": {
-      "modifiedTime": 1745534179973,
-      "sourceSize": 1136051,
-      "exportedPath": "zImages/Arthur_Swifteye.png",
-      "dependencies": []
-    },
-    "zImages/Batamagus.png": {
-      "modifiedTime": 1745534179973,
-      "sourceSize": 16500,
-      "exportedPath": "zImages/Batamagus.png",
-      "dependencies": []
-    },
-    "zImages/Begacahkos Emperor.jpg": {
-      "modifiedTime": 1745534179973,
-      "sourceSize": 240286,
-      "exportedPath": "zImages/Begacahkos Emperor.jpg",
-      "dependencies": []
-    },
-    "zImages/cascade.png": {
-      "modifiedTime": 1745534179973,
-      "sourceSize": 1409287,
-      "exportedPath": "zImages/cascade.png",
-      "dependencies": []
-    },
-    "zImages/Coolio Coolington Transparent.png": {
-      "modifiedTime": 1745534179973,
-      "sourceSize": 142150,
-      "exportedPath": "zImages/Coolio Coolington Transparent.png",
-      "dependencies": []
-    },
-    "zImages/Cresie in the shadows.jpg": {
-      "modifiedTime": 1745534179973,
-      "sourceSize": 337721,
-      "exportedPath": "zImages/Cresie in the shadows.jpg",
-      "dependencies": []
-    },
-    "zImages/Cresie's breakdown.jpg": {
-      "modifiedTime": 1745534179973,
-      "sourceSize": 241235,
-      "exportedPath": "zImages/Cresie's breakdown.jpg",
-      "dependencies": []
-    },
-    "zImages/Florian.jpg": {
-      "modifiedTime": 1745534179973,
-      "sourceSize": 120739,
-      "exportedPath": "zImages/Florian.jpg",
-      "dependencies": []
-    },
-    "zImages/Forn Star family tree.png": {
-      "modifiedTime": 1745534179973,
-      "sourceSize": 1780035,
-      "exportedPath": "zImages/Forn Star family tree.png",
-      "dependencies": []
-    },
-    "zImages/Forsythia Portrait.png": {
-      "modifiedTime": 1745534179973,
-      "sourceSize": 1143334,
-      "exportedPath": "zImages/Forsythia Portrait.png",
-      "dependencies": []
-    },
-    "zImages/Goojoo Sootaroo.png": {
-      "modifiedTime": 1745534179973,
-      "sourceSize": 155085,
-      "exportedPath": "zImages/Goojoo Sootaroo.png",
-      "dependencies": []
-    },
-    "zImages/Lemon Portrait.png": {
-      "modifiedTime": 1745534179973,
-      "sourceSize": 1383103,
-      "exportedPath": "zImages/Lemon Portrait.png",
-      "dependencies": []
-    },
-    "zImages/Niles.jpg": {
-      "modifiedTime": 1745534179973,
-      "sourceSize": 264506,
-      "exportedPath": "zImages/Niles.jpg",
-      "dependencies": []
-    },
-    "zImages/Oukruh Cool Stance.png": {
-      "modifiedTime": 1745534179973,
-      "sourceSize": 7111,
-      "exportedPath": "zImages/Oukruh Cool Stance.png",
-      "dependencies": []
-    },
-    "zImages/Oukruh in action.png": {
-      "modifiedTime": 1745534179973,
-      "sourceSize": 74147,
-      "exportedPath": "zImages/Oukruh in action.png",
-      "dependencies": []
-    },
-    "zImages/Oukruh Leaps into Flight.png": {
-      "modifiedTime": 1745534179973,
-      "sourceSize": 10096,
-      "exportedPath": "zImages/Oukruh Leaps into Flight.png",
-      "dependencies": []
-    },
-    "zImages/Oukruh turned away.png": {
-      "modifiedTime": 1745534179973,
-      "sourceSize": 8846,
-      "exportedPath": "zImages/Oukruh turned away.png",
-      "dependencies": []
-    },
-    "zImages/Pasted image 20250223011632.png": {
-      "modifiedTime": 1745534179973,
-      "sourceSize": 53037,
-      "exportedPath": "zImages/Pasted image 20250223011632.png",
-      "dependencies": []
-    },
-    "zImages/Stylised Cresie.jpg": {
-      "modifiedTime": 1745534179973,
-      "sourceSize": 249667,
-      "exportedPath": "zImages/Stylised Cresie.jpg",
-      "dependencies": []
-    },
-    "zImages/The Psionic Sunburst.png": {
-      "modifiedTime": 1745534179973,
-      "sourceSize": 5570,
-      "exportedPath": "zImages/The Psionic Sunburst.png",
-      "dependencies": []
-    },
-    "zImages/Trading Tables from Heliana.png": {
-      "modifiedTime": 1745534179973,
-      "sourceSize": 159176,
-      "exportedPath": "zImages/Trading Tables from Heliana.png",
-      "dependencies": []
-    },
-    "zImages/Wyenne portrait.png": {
-      "modifiedTime": 1745534179973,
-      "sourceSize": 43415,
-      "exportedPath": "zImages/Wyenne portrait.png",
-      "dependencies": []
-    },
     "Welcome.md": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 203,
       "exportedPath": "Welcome.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1745534179973,
+      "modifiedTime": 1745535090616,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
