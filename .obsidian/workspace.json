@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "3ab278773e71375e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed3d9b102dc59e9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53b2773e8bbf80a8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33e63dce5397b1af",
+    "type": "split",
+    "children": [
+      {
+        "id": "8750067ab7acac60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f46692bde4379a5e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f4aa966773acd5d0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "11fa7bf9f87ddd04",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e253dd9a878afb2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2095b2467c48a1c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c1401c27a9e677e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "92a7fe3af7ba1562",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "030a977547c37ad8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e907de7ff5de9881",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "ff24653f6dbc3d5c",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "webpage-html-export:Export Vault to HTML": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "random-note:Open random note": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "f46692bde4379a5e",
+  "lastOpenFiles": [
+    "content/index.html",
+    "node_modules/rxjs/dist/types/internal/util/UnsubscriptionError.d.ts.map",
+    "node_modules/rxjs/src/internal/observable/dom/animationFrames.ts",
+    "node_modules/rxjs/src/internal/observable/dom/WebSocketSubject.ts",
+    "node_modules/rxjs/src/internal/observable/dom/webSocket.ts",
+    "node_modules/rxjs/src/internal/observable/dom/fetch.ts",
+    "node_modules/rxjs/dist/types/internal/util/workarounds.d.ts.map",
+    "node_modules/rxjs/dist/types/internal/util/workarounds.d.ts",
+    "node_modules/rxjs/dist/types/internal/util/UnsubscriptionError.d.ts",
+    "node_modules/rxjs/dist/types/internal/util/throwUnobservableError.d.ts.map",
+    "node_modules/rxjs/dist/types/internal/util/throwUnobservableError.d.ts",
+    "node_modules/vfile-location/node_modules/@types/unist/README.md",
+    "node_modules/vfile/node_modules/@types/unist/README.md",
+    "node_modules/unist-util-visit-parents/node_modules/@types/unist/README.md",
+    "node_modules/unist-util-visit-children/node_modules/@types/unist/README.md",
+    "node_modules/unist-util-remove-position/node_modules/@types/unist/README.md",
+    "node_modules/unist-util-visit/node_modules/@types/unist/README.md",
+    "node_modules/unist-util-position/node_modules/@types/unist/README.md",
+    "node_modules/unist-util-modify-children/node_modules/@types/unist/README.md",
+    "node_modules/unist-util-find-after/node_modules/@types/unist/README.md",
+    "node_modules/unist-util-is/node_modules/@types/unist/README.md",
+    "node_modules/unified/node_modules/@types/unist/README.md",
+    "node_modules/parse-latin/node_modules/@types/unist/README.md",
+    "node_modules/mdast-util-to-markdown/node_modules/@types/unist/README.md",
+    "node_modules/mdast-util-mdx-jsx/node_modules/@types/unist/README.md",
+    "node_modules/mdast-util-from-markdown/node_modules/@types/unist/README.md",
+    "node_modules/hast-util-to-text/node_modules/@types/unist/README.md",
+    "node_modules/hast-util-to-html/node_modules/@types/unist/README.md",
+    "node_modules/hast-util-to-jsx-runtime/node_modules/@types/unist/README.md",
+    "node_modules/hast-util-raw/node_modules/@types/unist/README.md",
+    "node_modules/hast-util-from-parse5/node_modules/@types/unist/README.md",
+    "node_modules/hast-util-from-html/node_modules/@types/unist/README.md",
+    "node_modules/wrap-ansi-cjs/node_modules/ansi-regex/readme.md",
+    "node_modules/yargs/node_modules/strip-ansi/readme.md",
+    "node_modules/yargs/node_modules/string-width/readme.md",
+    "node_modules/yargs/node_modules/ansi-regex/readme.md",
+    "node_modules/js-binary-schema-parser/example/horses.gif",
+    "node_modules/js-binary-schema-parser/example/dog.gif",
+    "node_modules/js-binary-schema-parser/example/box.gif",
+    "node_modules/gifuct-js/demo/jblack.gif",
+    "node_modules/gifuct-js/demo/horses.gif",
+    "node_modules/gifuct-js/demo/dog.gif",
+    "node_modules/cli-spinner/img/spinner.gif",
+    "docs/images/social-image-preview-light.png",
+    "docs/images/social-image-preview-dark.png",
+    "docs/images/quartz-layout-tablet.png"
+  ]
+}

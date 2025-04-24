@@ -1,0 +1,10 @@
+{
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "headless boxes",
+    "new info boxes",
+    "TabsInObsidian",
+    "test"
+  ]
+}
